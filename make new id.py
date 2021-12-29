@@ -1,6 +1,7 @@
 # autor: YaRkyungmin
 # 2021-12-29
 # https://programmers.co.kr/learn/courses/30/lessons/72410
+# programmers_신규 아이디 추천_level-1
 
 def solution(new_id):
     answer = ''

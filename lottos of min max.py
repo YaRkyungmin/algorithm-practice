@@ -1,6 +1,7 @@
 # autor: YaRkyungmin
 # 2021-12-28
 # https://programmers.co.kr/learn/courses/30/lessons/77484?language=python3#fnref1
+# programmers_로또의 최고 순위와 최저 순위_level-1
 
 def solution(lottos, win_nums):
     answer = []

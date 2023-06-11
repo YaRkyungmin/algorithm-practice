@@ -9,5 +9,5 @@
 ### 23년 6월
 | date       | problem set          | kyungmin |
 | :----------: | :--------------------: | :----: | 
-|6월 12일| [배열과 리스트](https://www.acmicpc.net/problem/11720) ||
-|6월 12일| [배열과 리스트](https://www.acmicpc.net/problem/1546) ||
+|6월 12일| [배열과 리스트-숫자의 합 구하기](https://www.acmicpc.net/problem/11720) |✅❌|
+|6월 12일| [배열과 리스트-평균 구하기](https://www.acmicpc.net/problem/1546) |✅❌|

@@ -1,7 +1,13 @@
-# Algorithm-Practice
-  ## Programmers Coding Test
-        lottos of min max (21-12-28)
-        make new id (21-12-29)
-        string card invert num card (21-12-30)
-        key pad input (21-12-31)
-  ## BAEKJOON
+# Algorithm2023
+
+## 규칙
+- 시간 : 월,화,수,목,금 (오후 12시 ~ 오전 1시)
+
+## 확인
+- 확인란에 틀렸든 맞았든 잘 체크 해주세요.
+
+### 23년 6월
+| date       | problem set          | kyungmin |
+| :----------: | :--------------------: | :----: | 
+|6월 12일| [배열과 리스트](https://www.acmicpc.net/problem/11720) ||
+|6월 12일| [배열과 리스트](https://www.acmicpc.net/problem/1546) ||

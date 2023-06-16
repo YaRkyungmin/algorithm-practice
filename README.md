@@ -17,7 +17,7 @@
 | :----------: | :--------------------: | :----: | :----: | 
 |6월 12일| [배열과 리스트 - 숫자의 합 구하기](https://www.acmicpc.net/problem/11720) |❌|✅|
 |6월 12일| [배열과 리스트 - 평균 구하기](https://www.acmicpc.net/problem/1546) |✅||
-|6월 13일| [구간 합 - 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |❌|❌✅|
+|6월 13일| [구간 합 - 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |❌|✅|
 |6월 13일| [구간 합 - 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |❌|❌✅|
 |6월 14일| [구간 합 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167) |✅||
 |6월 15일| [구간 합 - 나머지 합](https://www.acmicpc.net/problem/10986) |❌✅|❌✅|

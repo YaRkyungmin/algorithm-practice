@@ -20,4 +20,4 @@
 |6월 13일| [구간 합 - 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |❌|✅|
 |6월 13일| [구간 합 - 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |❌|❌✅|
 |6월 14일| [구간 합 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167) |✅||
-|6월 15일| [구간 합 - 나머지 합](https://www.acmicpc.net/problem/10986) |❌✅|❌✅|
+|6월 15일| [구간 합 - 나머지 합](https://www.acmicpc.net/problem/10986) |❌|✅|

@@ -6,35 +6,20 @@ time: 30분
 """
 N = int(input())
 M = int(input())
-
+#N 갯수, M 합
 l = list(map(int, input().split()))
+l.sort()
 count = 0
-for i in range(0,N):
-    for x in range(i+1,N):
-        if l[i] + l[x] == M :
-            count += 1
+# 1 2 3 4 5 7
+start = 0
+end = N - 1
+while start != end :
+    sum = l[start] + l[end]
+    if sum == M:
+        count += 1
+        start += 1
+    elif  sum < M:
+        start += 1
+    else:
+        end -= 1
 print(count)
-# if N < 2:
-#     print(0)
-# s = 0
-# e = 1
-# count = 0
-# sum = l[s]
-# print(l)
-# while s < N: # 1 2 3 4 5 7
-#     sum += l[e]
-#     print(sum)
-#     if sum == M:
-#         count += 1
-#         sum -= l[e]
-#         e += 1
-#     elif sum < M:
-#         sum -= l[e]
-#         e += 1
-#     else:
-#         sum -= l[s]
-#         s += 1
-#         if s < e :
-#             sum += l[s]
-#         else :
-#             break

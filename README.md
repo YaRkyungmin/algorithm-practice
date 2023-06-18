@@ -22,4 +22,11 @@
 |6월 14일| [구간 합 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167) |✅||
 |6월 15일| [구간 합 - 나머지 합](https://www.acmicpc.net/problem/10986) |❌|✅|
 |6월 16일| [투 포인터 - 수들의 합 5](https://www.acmicpc.net/problem/2018) |✅||
-|6월 16일| [투 포인터 - 주몽](https://www.acmicpc.net/problem/1940) |❌|✅❌|
+|6월 16일| [투 포인터 - 주몽](https://www.acmicpc.net/problem/1940) |❌|✅|
+|6월 17일| [투 포인터 - 좋다](https://www.acmicpc.net/problem/1253) |✅❌|✅❌|
+|6월 18일| [슬라이딩 윈도우 - DNA 비밀번호](https://www.acmicpc.net/problem/12891) |✅❌|✅❌|
+|6월 18일| [슬라이딩 윈도우 - 최솟값 찾기](https://www.acmicpc.net/problem/11003) |✅❌|✅❌|
+|6월 19일| [스택과 큐 - DNA 비밀번호](https://www.acmicpc.net/problem/1874) |✅❌|✅❌|
+|6월 19일| [스택과 큐 - DNA 비밀번호](https://www.acmicpc.net/problem/17298) |✅❌|✅❌|
+|6월 19일| [스택과 큐 - DNA 비밀번호](https://www.acmicpc.net/problem/2164) |✅❌|✅❌|
+|6월 19일| [스택과 큐 - DNA 비밀번호](https://www.acmicpc.net/problem/11286) |✅❌|✅❌|

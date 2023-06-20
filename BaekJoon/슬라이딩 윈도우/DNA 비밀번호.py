@@ -5,44 +5,36 @@ title: DNA 비밀번호
 time: 30분
 """
 S, P = map(int, input().split())
-DNA = input()
-A, C, G, T = map(int, input().split())
-p = P - 1
-ac, cc, gc, tc = 0,0,0,0
-count = 0
-# [a c c c] c g t t a
+inputString = input()
+condition = list(map(int, input().split()))
+slideCount = [0 for i in range(4)]
+result = 0
+p = P - 1 
+
+def countACGT(chracter):
+    if chracter == "A":
+        return 0
+    elif chracter == "C":
+        return 1
+    elif chracter == "G":
+        return 2
+    else:
+        return 3
+
+def checkPassWord():
+    if condition[0] <= slideCount[0] and condition[1] <= slideCount[1] and condition[2] <= slideCount[2] and condition[3] <= slideCount[3]:
+        return True
+    else:
+        return False
+
 for i in range(P):
-    if DNA[i] == "A":
-        ac += 1
-    elif DNA[i] == "C":
-        cc += 1
-    elif DNA[i] == "G":
-        gc += 1
-    else :
-        tc += 1
-while p < S :
-    if ac >= A and cc >= C and gc >= G and tc >= T:
-        count += 1
+    slideCount[countACGT(inputString[i])] += 1
+
+while p < S:
+    if checkPassWord():
+        result += 1
     p += 1
     if p < S:
-        if DNA[p] == "A":
-            ac += 1
-        elif DNA[p] == "C":
-            cc += 1
-        elif DNA[p] == "G":
-            gc += 1
-        else:
-            tc += 1
-        
-        sub = p - P
-
-        if DNA[sub] == "A":
-            ac -= 1
-        elif DNA[sub] == "C":
-            cc -= 1
-        elif DNA[sub] == "G":
-            gc -= 1
-        else:
-            tc -= 1
-print(count)
-        
+        slideCount[countACGT(inputString[p])] += 1
+        slideCount[countACGT(inputString[p-P])] -= 1
+print(result)

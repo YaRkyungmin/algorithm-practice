@@ -31,4 +31,6 @@
 |6월 21일| [스택과 큐 - 오큰수](https://www.acmicpc.net/problem/17298) |❌|✅❌|
 |6월 21일| [스택과 큐 - 카드2](https://www.acmicpc.net/problem/2164) |✅||
 |6월 22일| [스택과 큐 - 절댓값 힙](https://www.acmicpc.net/problem/11286) |❌|✅❌|
-|6월 22일| [깊이 우선 탐색 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |❌|✅❌|
+|6월 22일| [깊이 우선 탐색 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |❌|✅|
+|6월 23일| [깊이 우선 탐색 - 신기한 소수](https://www.acmicpc.net/problem/2023) |❌|✅❌|
+|6월 23일| [소수 찾기 - 소수 구하기](https://www.acmicpc.net/problem/1929) |❌|✅❌|

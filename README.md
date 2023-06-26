@@ -34,4 +34,5 @@
 |6월 22일| [깊이 우선 탐색 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |❌|✅|
 |6월 25일| [깊이 우선 탐색 - 신기한 소수](https://www.acmicpc.net/problem/2023) |❌|✅❌|
 |6월 23일| [소수 찾기 - 소수 구하기](https://www.acmicpc.net/problem/1929) |❌|✅❌|
-|6월 25일| [깊이 우선 탐색 -  ABCDE](https://www.acmicpc.net/problem/13023) |✅❌|✅❌|
+|6월 26일| [깊이 우선 탐색 -  ABCDE](https://www.acmicpc.net/problem/13023) |❌|✅❌|
+|6월 27일| [너비 우선 탐색 -  DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅❌|✅❌|

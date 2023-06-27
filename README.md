@@ -35,4 +35,5 @@
 |6월 25일| [깊이 우선 탐색 - 신기한 소수](https://www.acmicpc.net/problem/2023) |❌|✅❌|
 |6월 23일| [소수 찾기 - 소수 구하기](https://www.acmicpc.net/problem/1929) |❌|✅❌|
 |6월 26일| [깊이 우선 탐색 -  ABCDE](https://www.acmicpc.net/problem/13023) |❌|✅❌|
-|6월 27일| [너비 우선 탐색 -  DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅❌|✅❌|
+|6월 27일| [너비 우선 탐색 -  DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅||
+|6월 27일| [너비 우선 탐색 -  미로 탐색](https://www.acmicpc.net/problem/2178) |✅❌|✅❌|

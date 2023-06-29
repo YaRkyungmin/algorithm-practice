@@ -37,4 +37,5 @@
 |6월 26일| [깊이 우선 탐색 -  ABCDE](https://www.acmicpc.net/problem/13023) |❌|✅❌|
 |6월 27일| [너비 우선 탐색 -  DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅||
 |6월 27일| [너비 우선 탐색 -  미로 탐색](https://www.acmicpc.net/problem/2178) |❌|✅❌|
-|6월 28일| [너비 우선 탐색 -  트리의 지름](https://www.acmicpc.net/problem/1167) |✅❌|✅❌|
+|6월 29일| [너비 우선 탐색 -  트리의 지름](https://www.acmicpc.net/problem/1167) |❌|✅❌|
+|6월 29일| [이진 탐색 -  수 찾기](https://www.acmicpc.net/problem/1920) |✅❌|✅❌|

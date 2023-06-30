@@ -34,8 +34,10 @@
 |6월 22일| [깊이 우선 탐색 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) |❌|✅|
 |6월 25일| [깊이 우선 탐색 - 신기한 소수](https://www.acmicpc.net/problem/2023) |❌|✅❌|
 |6월 23일| [소수 찾기 - 소수 구하기](https://www.acmicpc.net/problem/1929) |❌|✅❌|
-|6월 26일| [깊이 우선 탐색 -  ABCDE](https://www.acmicpc.net/problem/13023) |❌|✅❌|
-|6월 27일| [너비 우선 탐색 -  DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅||
-|6월 27일| [너비 우선 탐색 -  미로 탐색](https://www.acmicpc.net/problem/2178) |❌|✅❌|
-|6월 29일| [너비 우선 탐색 -  트리의 지름](https://www.acmicpc.net/problem/1167) |❌|✅❌|
-|6월 29일| [이진 탐색 -  수 찾기](https://www.acmicpc.net/problem/1920) |✅❌|✅❌|
+|6월 26일| [깊이 우선 탐색 - ABCDE](https://www.acmicpc.net/problem/13023) |❌|✅❌|
+|6월 27일| [너비 우선 탐색 - DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅||
+|6월 27일| [너비 우선 탐색 - 미로 탐색](https://www.acmicpc.net/problem/2178) |❌|✅❌|
+|6월 29일| [너비 우선 탐색 - 트리의 지름](https://www.acmicpc.net/problem/1167) |❌|✅❌|
+|7월 1일| [이진 탐색 - 수 찾기](https://www.acmicpc.net/problem/1920) |❌|✅❌|
+|7월 2일| [이진 탐색 - 기타 레슨](https://www.acmicpc.net/problem/2343) |✅❌|✅❌|
+|7월 2일| [이진 탐색 - K번째 수](https://www.acmicpc.net/problem/1300) |✅❌|✅❌|

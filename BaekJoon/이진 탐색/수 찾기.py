@@ -11,20 +11,17 @@ N = int(input().rstrip())
 numbers = list(map(int, input().split()))
 M = int(input().rstrip())
 search_numbers = list(map(int, input().split()))
-
 numbers.sort()
-
-for i in range(M):
-    sn = search_numbers[i]
+for num in search_numbers:
     start = 0
-    end = len(numbers) -1
+    end = N - 1
     flag = 0
     while start <= end:
-        midian = (start + end) // 2
-        if numbers[midian] > sn :
-            end = midian -1
-        elif numbers[midian] < sn :
-            start = midian + 1
+        median = (start + end) // 2
+        if numbers[median] < num:
+            start = median + 1
+        elif numbers[median] > num:
+            end = median - 1
         else:
             flag = 1
             break

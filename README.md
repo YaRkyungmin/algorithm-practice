@@ -39,5 +39,5 @@
 |6월 27일| [너비 우선 탐색 - 미로 탐색](https://www.acmicpc.net/problem/2178) |❌|✅❌|
 |6월 29일| [너비 우선 탐색 - 트리의 지름](https://www.acmicpc.net/problem/1167) |❌|✅❌|
 |7월 1일| [이진 탐색 - 수 찾기](https://www.acmicpc.net/problem/1920) |❌|✅|
-|7월 2일| [이진 탐색 - 기타 레슨](https://www.acmicpc.net/problem/2343) |✅❌|✅❌|
+|7월 2일| [이진 탐색 - 기타 레슨](https://www.acmicpc.net/problem/2343) |❌|✅❌|
 |7월 2일| [이진 탐색 - K번째 수](https://www.acmicpc.net/problem/1300) |✅❌|✅❌|

@@ -40,5 +40,5 @@
 |6월 29일| [너비 우선 탐색 - 트리의 지름](https://www.acmicpc.net/problem/1167) |❌|✅❌|
 |7월 1일| [이진 탐색 - 수 찾기](https://www.acmicpc.net/problem/1920) |❌|✅|
 |7월 4일| [이진 탐색 - 기타 레슨](https://www.acmicpc.net/problem/2343) |❌|✅❌|
-|7월 6일| [이진 탐색 - K번째 수](https://www.acmicpc.net/problem/1300) |❌|✅❌|
+|7월 6일| [이진 탐색 - K번째 수](https://www.acmicpc.net/problem/1300) |❌|✅|
 |7월 6일| [그리디 - 동전 0](https://www.acmicpc.net/problem/11047) |✅❌|✅❌|

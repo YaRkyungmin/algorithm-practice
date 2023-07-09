@@ -4,18 +4,21 @@ date: 23.06.22
 title: 절댓값 힙
 time: 30분
 """
+import sys
 import heapq
-N = int(input())
-arr = []
-r = []
-# for i in range(N):
-#     inputValue = int(input())
-#     sign = 0
-#     if inputValue < 0:
-#         inputValue = abs(inputValue)
-#         sign = 1
-        
-#     if inputValue != 0: 
-#         arr.append((inputValue,sign))
-#     else:
-#         if len(arr)
+input = sys.stdin.readline
+
+# N = int(input().rstrip())
+# heap = [(3,-1,1), (3,-1,-1) , (2,-1), (2,1)]
+list = [1,3,2,5,-1,-10]
+heap = []
+
+# for _ in range(N):
+#     num = int(input().rstrip())
+#     if num != 0:
+# heapq.heapify(heap)
+# print(heap)
+# while heap:
+#     print(heapq.heappop(heap))
+
+

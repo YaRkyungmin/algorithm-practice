@@ -42,4 +42,7 @@
 |7월 4일| [이진 탐색 - 기타 레슨](https://www.acmicpc.net/problem/2343) |❌|✅❌|
 |7월 6일| [이진 탐색 - K번째 수](https://www.acmicpc.net/problem/1300) |❌|✅❌|
 |7월 9일| [그리디 - 동전 0](https://www.acmicpc.net/problem/11047) |❌|✅❌|
-|7월 9일| [그리디 - 카드 정렬하기](https://www.acmicpc.net/problem/1715) |✅||
+|7월 10일| [그리디 - 카드 정렬하기](https://www.acmicpc.net/problem/1715) |✅||
+|7월 10일| [그리디 - 회의실 배정](https://www.acmicpc.net/problem/1931) |✅||
+|7월 11일| [그리디 - 수 묶기](https://www.acmicpc.net/problem/1744) |✅||
+|7월 11일| [그리디 - 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |✅||

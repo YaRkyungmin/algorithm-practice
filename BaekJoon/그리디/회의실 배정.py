@@ -7,7 +7,6 @@ time: 30분
 import sys
 import heapq
 input = sys.stdin.readline
-s
 N = int(input().rstrip())
 time = []
 for _ in range(N):

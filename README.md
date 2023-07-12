@@ -46,3 +46,5 @@
 |7월 10일| [그리디 - 회의실 배정](https://www.acmicpc.net/problem/1931) |✅||
 |7월 11일| [그리디 - 수 묶기](https://www.acmicpc.net/problem/1744) |✅||
 |7월 11일| [그리디 - 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |✅||
+|7월 12일| [버블 정렬 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅||
+|7월 12일| [버블 정렬 - 버블 소트](https://www.acmicpc.net/problem/1377) |✅❌||

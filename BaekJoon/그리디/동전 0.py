@@ -11,16 +11,12 @@ N, K = map(int, input().split())
 numbers = []
 for _ in range(N):
     numbers.append(int(input().rstrip()))
-num_sum = 0
-cnt = 0 
-
+num_sum = K
+num_cnt = 0
 for i in range(-1, -(N + 1), -1):
-    if numbers[i] <= K:
-        while num_sum <= K:
-            num_sum += numbers[i]
-            cnt += 1
-        num_sum -= numbers[i]
-        cnt -= 1
-    if num_sum == K:
+    cnt = num_sum // numbers[i]
+    num_sum -= cnt * numbers[i]
+    num_cnt += cnt
+    if num_sum == 0:
         break
-print(cnt)
+print(num_cnt)

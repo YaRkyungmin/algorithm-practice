@@ -47,5 +47,6 @@
 |7월 11일| [그리디 - 수 묶기](https://www.acmicpc.net/problem/1744) |✅||
 |7월 11일| [그리디 - 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |✅||
 |7월 12일| [버블 정렬 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅||
-|7월 12일| [버블 정렬 - 버블 소트](https://www.acmicpc.net/problem/1377) |❌||
+|7월 15일| [버블 정렬 - 버블 소트](https://www.acmicpc.net/problem/1377) |❌||
 |7월 12일| [선택 정렬 - 소트인사이드](https://www.acmicpc.net/problem/1427) |✅||
+|7월 15일| [퀵 정렬 - K번째수](https://www.acmicpc.net/problem/11004) |❌|✅❌|

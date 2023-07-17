@@ -6,6 +6,7 @@ time: 30분
 """
 import sys
 input = sys.stdin.readline
+print = sys.stdout.write
 
 N, K = map(int, input().rstrip().split())
 K -= 1

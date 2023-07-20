@@ -9,55 +9,48 @@ input = sys.stdin.readline
 print = sys.stdout.write
 
 N, K = map(int, input().rstrip().split())
-K -= 1
 numbers = list(map(int, input().rstrip().split()))
+K -= 1
 
-def quickSort(S, E):
-    if S < E:
-        pivot = partition(S, E)
-        if pivot == K:
-            return
-        elif K < pivot:
-            quickSort(S, pivot - 1)
-        else:
-            quickSort(pivot + 1, E)
-    return
+def quick_sort(S, E):
+    pivot = get_pivot(S, E)
 
-def swap(i, j):
-    temp = numbers[i]
-    numbers[i] = numbers[j]
-    numbers[j] = temp
+    if pivot == K:
+        return numbers[pivot]
+    elif pivot > K:
+        quick_sort(S, pivot-1)
+    else:
+        quick_sort(pivot+1, E)
 
-# 4 7 2 3 1
-# 2 7 4 3 1
-#0 4
-def partition(S, E):
-    if S + 1 == E:
-        if numbers[S] > numbers[E]:
-            swap(S, E)
-        return E
-#2
-    M = (S + E) // 2
+def swap(A, B):
+    numbers[A], numbers[B] = numbers[B], numbers[A]
+
+# 2 1 8 [3] 2 7 5 4
+# 0 1 2 3 4 5 6 7
+
+# 3 1 2 2 8 7 5 4
+
+def get_pivot(S, E):
+    M = S + E // 2
+
     swap(S, M)
-    pivot = numbers[S]
-    i = S + 1
-    j = E
 
-#i = 1, j= 4
-    while i <= j:
-        while pivot < numbers[j] and j > 0:
-            j = j - 1
-        while pivot > numbers[i] and i < N - 1:
-            i = i + 1
-        if i <= j:
-            swap(i, j)
-            i += 1
-            j -= 1
-
-    # i == j 피벗의 값을 양쪽으로 분리한 가운데에 오도록 설정하기
-    swap(S, j)
-    return j
-
-quickSort(0, N - 1)
-print(numbers[K])
+    start = S + 1
+    end = E
+    while start <= end:
+        while numbers[start] < numbers[S] and start <= end:
+            start += 1
+        while numbers[end] >= numbers[S] and start <= end:
+            end -= 1
     
+        if start < end:
+            swap(start, end)
+            start += 1
+            end -= 1
+    if end < start:
+        swap(S, end)
+        return end
+    else:
+        swap(S, start)
+        return start
+

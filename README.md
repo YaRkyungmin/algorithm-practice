@@ -51,4 +51,5 @@
 |7월 12일| [선택 정렬 - 소트인사이드](https://www.acmicpc.net/problem/1427) |✅||
 |7월 15일| [퀵 정렬 - K번째수](https://www.acmicpc.net/problem/11004) |❌|✅❌|
 |7월 16일| [병합 정렬 - 수 정렬하기 2](https://www.acmicpc.net/problem/2751) |❌|✅❌|
-|7월 17일| [병합 정렬 - 버블소트](https://www.acmicpc.net/problem/1517) |✅❌|❌|
+|7월 18일| [병합 정렬 - 버블소트](https://www.acmicpc.net/problem/1517) |❌|✅❌|
+|7월 20일| [기수 정렬 - 수 정렬하기 3](https://www.acmicpc.net/problem/10989) |❌|✅❌|

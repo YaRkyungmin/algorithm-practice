@@ -16,5 +16,5 @@ def merge_sort(S,E):
     M = int(S + (E - S) / 2)
     merge_sort(S, M)
     merge_sort(M + 1, E)
-    for i in range(S, E + 1):
+    # for i in range(S, E + 1):
         # tmp[i] = A[i]

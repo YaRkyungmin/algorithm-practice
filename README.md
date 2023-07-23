@@ -54,3 +54,4 @@
 |7월 18일| [병합 정렬 - 버블소트](https://www.acmicpc.net/problem/1517) |❌|✅❌|
 |7월 20일| [기수 정렬 - 수 정렬하기 3](https://www.acmicpc.net/problem/10989) |❌|✅❌|
 |7월 22일| [소수 구하기 - 거의 소수](https://www.acmicpc.net/problem/1456) |❌|✅❌|
+|7월 23일| [소수&팰린드롬 - 거의 소수](https://www.acmicpc.net/problem/1747) |✅||

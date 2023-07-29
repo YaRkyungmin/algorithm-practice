@@ -20,3 +20,4 @@ for i in range(-1, -(N + 1), -1):
     if num_sum == 0:
         break
 print(num_cnt)
+print(num_cnt)

@@ -59,4 +59,4 @@
 |7월 26일| [오일러 피 - GCD(n, k) = 1](https://www.acmicpc.net/problem/11689) |❌|✅❌|
 |7월 26일| [유클리드 호제법 - 최소공배수](https://www.acmicpc.net/problem/1934) |❌|✅❌|
 |7월 31일| [유클리드 호제법 - 최대공약수](https://www.acmicpc.net/problem/1850) |❌|✅❌|
-|7월 31일| [유클리드 호제법 - 칵테일 만들기](https://www.acmicpc.net/problem/1033) |✅❌|✅❌|
+|7월 31일| [유클리드 호제법 - 칵테일](https://www.acmicpc.net/problem/1033) |❌|✅❌|

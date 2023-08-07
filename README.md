@@ -61,3 +61,4 @@
 |7월 31일| [유클리드 호제법 - 최대공약수](https://www.acmicpc.net/problem/1850) |❌|✅❌|
 |8월 6일| [유클리드 호제법 - 칵테일](https://www.acmicpc.net/problem/1033) |❌|✅❌|
 |8월 7일| [그래프의 표현 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |❌|✅❌|
+|8월 8일| [그래프의 표현 - 효율적인 해킹](https://www.acmicpc.net/problem/1325) |❌|✅❌|

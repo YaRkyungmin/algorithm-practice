@@ -7,3 +7,5 @@ time: 30분
 import sys
 from collections import deque
 input = sys.stdin.readline
+
+a, b, c = map(int, input().split())

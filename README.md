@@ -64,5 +64,5 @@
 |8월 8일| [그래프의 표현 - 효율적인 해킹](https://www.acmicpc.net/problem/1325) |❌|✅❌|
 |8월 10일| [그래프의 표현 - 이분 그래프](https://www.acmicpc.net/problem/1707) |❌|✅❌|
 |8월 11일| [그래프의 표현 - 물통](https://www.acmicpc.net/problem/2251) |❌|✅❌|
-|8월 15일| [유니온 파인드 - 집합의 표현](https://www.acmicpc.net/problem/1717) |✅❌|✅❌|
-|8월 16일| [유니온 파인드 - 집합의 표현](https://www.acmicpc.net/problem/1976) |✅❌|✅❌|
+|8월 15일| [유니온 파인드 - 집합의 표현](https://www.acmicpc.net/problem/1717) |❌|✅❌|
+|8월 16일| [유니온 파인드 - 여행 가자](https://www.acmicpc.net/problem/1976) |✅❌|✅❌|

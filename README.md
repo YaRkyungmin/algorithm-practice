@@ -66,3 +66,4 @@
 |8월 11일| [그래프의 표현 - 물통](https://www.acmicpc.net/problem/2251) |❌|✅❌|
 |8월 15일| [유니온 파인드 - 집합의 표현](https://www.acmicpc.net/problem/1717) |❌|✅❌|
 |8월 16일| [유니온 파인드 - 여행 가자](https://www.acmicpc.net/problem/1976) |❌|✅❌|
+|8월 28일| [동적 계획법 - 정수를 1로 만들기](https://www.acmicpc.net/problem/1463) |✅❌|✅❌|

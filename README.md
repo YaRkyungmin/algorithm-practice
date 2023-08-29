@@ -68,3 +68,4 @@
 |8월 16일| [유니온 파인드 - 여행 가자](https://www.acmicpc.net/problem/1976) |❌|✅❌|
 |8월 28일| [동적 계획법 - 정수를 1로 만들기](https://www.acmicpc.net/problem/1463) |❌|✅❌|
 |8월 29일| [동적 계획법 - 퇴사](https://www.acmicpc.net/problem/14501) |❌|✅❌|
+|8월 30일| [동적 계획법 - 이친수](https://www.acmicpc.net/problem/2193) |✅❌|✅❌|

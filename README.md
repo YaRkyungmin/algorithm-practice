@@ -8,11 +8,11 @@
 |[Github Profile](https://github.com/YaRkyungmin)
   
 ## 규칙 📋
-- 시간 : 월,화,수,목,금 (오후 12시 ~ 오전 1시)
+- 시간 : 월,화,수,목,금 (오후 11시 ~ 오전 2시)
 
 ## TimeTable 🗓️
 
-### 23년 6월 ✨
+### BaekJoon ✨
 | date       | problem set          | solve | review |
 | :----------: | :--------------------: | :----: | :----: | 
 |6월 12일| [배열과 리스트 - 숫자의 합 구하기](https://www.acmicpc.net/problem/11720) |❌|✅|
@@ -70,3 +70,9 @@
 |8월 29일| [동적 계획법 - 퇴사](https://www.acmicpc.net/problem/14501) |❌|✅❌|
 |8월 30일| [동적 계획법 - 이친수](https://www.acmicpc.net/problem/2193) |✅❌|✅❌|
 |9월 4일| [동적 계획법 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |✅||
+
+### Programmers ✨
+| date       | problem set          | solve | review |
+| :----------: | :--------------------: | :----: | :----: |
+|9월 5일| [깊이 우선탐색 - 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |❌|✅❌|
+|9월 6일| [동적 계획법 - 점수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |✅||

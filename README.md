@@ -76,3 +76,4 @@
 | :----------: | :--------------------: | :----: | :----: |
 |9월 5일| [깊이 우선탐색 - 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |❌|✅❌|
 |9월 6일| [동적 계획법 - 점수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |✅||
+|9월 7일| [그리디 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |❌|✅❌|

@@ -78,4 +78,4 @@
 |9월 6일| [동적 계획법 - 점수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |✅||
 |9월 7일| [그리디 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |❌|✅❌|
 |9월 13일| [완전 탐색 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |✅||
-|9월 14일| [이분 탐색 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |✅❌|✅❌|
+|9월 14일| [이분 탐색 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |❌|✅❌|

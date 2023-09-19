@@ -79,4 +79,4 @@
 |9월 7일| [그리디 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |❌|✅❌|
 |9월 13일| [완전 탐색 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |✅||
 |9월 14일| [이분 탐색 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) |❌|✅❌|
-|9월 17일| [너비 우선탐색 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |✅❌|✅❌|
+|9월 17일| [너비 우선탐색 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |❌|✅❌|

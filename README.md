@@ -82,4 +82,4 @@
 |9월 17일| [너비 우선탐색 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |❌|✅❌|
 |9월 25일| [너비 우선탐색 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |❌|✅❌|
 |9월 26일| [동적 계획법 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |❌|✅❌|
-|9월 28일| [완전 탐색 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |✅❌|✅❌|
+|9월 28일| [완전 탐색 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |❌|✅❌|

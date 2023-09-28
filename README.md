@@ -84,3 +84,4 @@
 |9월 26일| [동적 계획법 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |❌|✅❌|
 |9월 28일| [완전 탐색 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |❌|✅❌|
 |9월 30일| [완전 탐색 - 모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |❌|✅❌|
+|10월 1일| [동적 계획법 - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |✅❌|✅❌|

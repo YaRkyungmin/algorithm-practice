@@ -86,3 +86,8 @@
 |9월 30일| [완전 탐색 - 모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |❌|✅❌|
 |10월 1일| [동적 계획법 - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |❌|✅❌|
 |10월 2일| [깊이 우선탐색 - 게임 맵  최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |❌|✅❌|
+
+### BaekJoon with Swift ✨
+| date       | problem set          | solve | review |
+| :----------: | :--------------------: | :----: | :----: | 
+|10월 3일| [배열 - 숫자의 개수](https://www.acmicpc.net/problem/2577) |✅❌|✅❌|

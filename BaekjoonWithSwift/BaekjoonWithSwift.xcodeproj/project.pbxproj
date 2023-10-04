@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EC52B0DAF4D00E7131D /* main.swift */; };
 		CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */; };
+		CDBE7ED12B0DB19900E7131D /* 방번호.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ED02B0DB19900E7131D /* 방번호.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		CDBE7EC22B0DAF4D00E7131D /* BaekjoonWithSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekjoonWithSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBE7EC52B0DAF4D00E7131D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자의개수.swift"; sourceTree = "<group>"; };
+		CDBE7ED02B0DB19900E7131D /* 방번호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "방번호.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +62,19 @@
 			isa = PBXGroup;
 			children = (
 				CDBE7EC52B0DAF4D00E7131D /* main.swift */,
-				CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */,
+				CDBE7ED22B0DB1F800E7131D /* 배열 */,
 			);
 			path = BaekjoonWithSwift;
+			sourceTree = "<group>";
+		};
+		CDBE7ED22B0DB1F800E7131D /* 배열 */ = {
+			isa = PBXGroup;
+			children = (
+				CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */,
+				CDBE7ED02B0DB19900E7131D /* 방번호.swift */,
+			);
+			name = "배열";
+			path = "배열";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */,
+				CDBE7ED12B0DB19900E7131D /* 방번호.swift in Sources */,
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

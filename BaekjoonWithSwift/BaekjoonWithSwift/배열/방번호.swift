@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  방번호.swift
 //  BaekjoonWithSwift
 //
 //  Created by kyungmin on 2023/11/22.
@@ -7,4 +7,6 @@
 
 import Foundation
 
-방번호()
+func 방번호() {
+    
+}

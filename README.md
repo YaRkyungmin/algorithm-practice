@@ -92,3 +92,4 @@
 | :----------: | :--------------------: | :----: | :----: | 
 |10월 3일| [배열 - 숫자의 개수](https://www.acmicpc.net/problem/2577) |✅||
 |10월 4일| [배열 - 방 번호](https://www.acmicpc.net/problem/1475) |✅||
+|10월 6일| [배열 - 두 수의 합](https://www.acmicpc.net/problem/3273) |✅❌|✅❌|

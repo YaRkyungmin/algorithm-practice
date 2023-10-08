@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  개수세기.swift
 //  BaekjoonWithSwift
 //
 //  Created by kyungmin on 2023/11/22.
@@ -7,4 +7,6 @@
 
 import Foundation
 
-개수세기()
+func 개수세기() {
+    
+}

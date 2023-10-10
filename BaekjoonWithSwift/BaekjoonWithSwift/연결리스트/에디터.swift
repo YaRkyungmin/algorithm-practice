@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  에디터.swift
 //  BaekjoonWithSwift
 //
 //  Created by kyungmin on 2023/11/22.
@@ -7,4 +7,6 @@
 
 import Foundation
 
-에디터()
+func 에디터() {
+    
+}

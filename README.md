@@ -95,3 +95,4 @@
 |10월 6일| [배열 - 두 수의 합](https://www.acmicpc.net/problem/3273) |✅||
 |10월 8일| [배열 - 개수 세기](https://www.acmicpc.net/problem/10807) |✅||
 |10월 10일| [연결 리스트 - 에디터](https://www.acmicpc.net/problem/1406) |❌|✅❌|
+|10월 12일| [연결 리스트 - 요세푸스 문제](https://www.acmicpc.net/problem/1158) |✅❌|✅❌|

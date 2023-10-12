@@ -13,6 +13,7 @@
 		CDBE7ED42B0DB32300E7131D /* 두수의합.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ED32B0DB32300E7131D /* 두수의합.swift */; };
 		CDBE7ED82B0DB47F00E7131D /* 개수세기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ED72B0DB47F00E7131D /* 개수세기.swift */; };
 		CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EDA2B0DB56F00E7131D /* 에디터.swift */; };
+		CDBE7EDD2B0DB6C800E7131D /* 요세푸스문제.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EDC2B0DB6C800E7131D /* 요세푸스문제.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		CDBE7ED32B0DB32300E7131D /* 두수의합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두수의합.swift"; sourceTree = "<group>"; };
 		CDBE7ED72B0DB47F00E7131D /* 개수세기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "개수세기.swift"; sourceTree = "<group>"; };
 		CDBE7EDA2B0DB56F00E7131D /* 에디터.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "에디터.swift"; sourceTree = "<group>"; };
+		CDBE7EDC2B0DB6C800E7131D /* 요세푸스문제.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "요세푸스문제.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				CDBE7EDA2B0DB56F00E7131D /* 에디터.swift */,
+				CDBE7EDC2B0DB6C800E7131D /* 요세푸스문제.swift */,
 			);
 			name = "연결리스트";
 			path = "연결리스트";
@@ -156,6 +159,7 @@
 				CDBE7ED42B0DB32300E7131D /* 두수의합.swift in Sources */,
 				CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */,
 				CDBE7ED82B0DB47F00E7131D /* 개수세기.swift in Sources */,
+				CDBE7EDD2B0DB6C800E7131D /* 요세푸스문제.swift in Sources */,
 				CDBE7ED12B0DB19900E7131D /* 방번호.swift in Sources */,
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,
 				CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */,

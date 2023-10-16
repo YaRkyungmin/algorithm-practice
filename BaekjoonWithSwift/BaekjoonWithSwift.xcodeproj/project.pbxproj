@@ -15,6 +15,7 @@
 		CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EDA2B0DB56F00E7131D /* 에디터.swift */; };
 		CDBE7EDD2B0DB6C800E7131D /* 요세푸스문제.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EDC2B0DB6C800E7131D /* 요세푸스문제.swift */; };
 		CDBE7EE02B0DB79000E7131D /* 스택.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EDF2B0DB79000E7131D /* 스택.swift */; };
+		CDBE7EE22B0DB87B00E7131D /* 제로.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE12B0DB87B00E7131D /* 제로.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		CDBE7EDA2B0DB56F00E7131D /* 에디터.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "에디터.swift"; sourceTree = "<group>"; };
 		CDBE7EDC2B0DB6C800E7131D /* 요세푸스문제.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "요세푸스문제.swift"; sourceTree = "<group>"; };
 		CDBE7EDF2B0DB79000E7131D /* 스택.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "스택.swift"; sourceTree = "<group>"; };
+		CDBE7EE12B0DB87B00E7131D /* 제로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "제로.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				CDBE7EDF2B0DB79000E7131D /* 스택.swift */,
+				CDBE7EE12B0DB87B00E7131D /* 제로.swift */,
 			);
 			name = "스택";
 			path = "스택";
@@ -172,6 +175,7 @@
 				CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */,
 				CDBE7ED82B0DB47F00E7131D /* 개수세기.swift in Sources */,
 				CDBE7EDD2B0DB6C800E7131D /* 요세푸스문제.swift in Sources */,
+				CDBE7EE22B0DB87B00E7131D /* 제로.swift in Sources */,
 				CDBE7EE02B0DB79000E7131D /* 스택.swift in Sources */,
 				CDBE7ED12B0DB19900E7131D /* 방번호.swift in Sources */,
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,

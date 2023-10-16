@@ -97,3 +97,4 @@
 |10월 10일| [연결 리스트 - 에디터](https://www.acmicpc.net/problem/1406) |❌|✅❌|
 |10월 12일| [연결 리스트 - 요세푸스 문제](https://www.acmicpc.net/problem/1158) |✅||
 |10월 14일| [스택 - 스택](https://www.acmicpc.net/problem/10828) |✅||
+|10월 16일| [스택 - 제로](https://www.acmicpc.net/problem/10773) |✅❌|✅❌|

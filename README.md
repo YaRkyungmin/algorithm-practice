@@ -99,3 +99,4 @@
 |10월 14일| [스택 - 스택](https://www.acmicpc.net/problem/10828) |✅||
 |10월 16일| [스택 - 제로](https://www.acmicpc.net/problem/10773) |✅||
 |10월 18일| [스택 - 스택 수열](https://www.acmicpc.net/problem/1874) |✅||
+|10월 20일| [스택 - 탑](https://www.acmicpc.net/problem/2493) |✅❌|✅❌|

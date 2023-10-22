@@ -18,6 +18,7 @@
 		CDBE7EE22B0DB87B00E7131D /* 제로.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE12B0DB87B00E7131D /* 제로.swift */; };
 		CDBE7EE42B0DB90D00E7131D /* 스택수열.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE32B0DB90D00E7131D /* 스택수열.swift */; };
 		CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE52B0DB9D100E7131D /* 탑.swift */; };
+		CDBE7EE92B0DBA9B00E7131D /* 큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE82B0DBA9B00E7131D /* 큐.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		CDBE7EE12B0DB87B00E7131D /* 제로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "제로.swift"; sourceTree = "<group>"; };
 		CDBE7EE32B0DB90D00E7131D /* 스택수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "스택수열.swift"; sourceTree = "<group>"; };
 		CDBE7EE52B0DB9D100E7131D /* 탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "탑.swift"; sourceTree = "<group>"; };
+		CDBE7EE82B0DBA9B00E7131D /* 큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "큐.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				CDBE7ED22B0DB1F800E7131D /* 배열 */,
 				CDBE7ED92B0DB54000E7131D /* 연결리스트 */,
 				CDBE7EDE2B0DB73B00E7131D /* 스택 */,
+				CDBE7EE72B0DBA8300E7131D /* 큐 */,
 			);
 			path = BaekjoonWithSwift;
 			sourceTree = "<group>";
@@ -117,6 +120,15 @@
 			);
 			name = "스택";
 			path = "스택";
+			sourceTree = "<group>";
+		};
+		CDBE7EE72B0DBA8300E7131D /* 큐 */ = {
+			isa = PBXGroup;
+			children = (
+				CDBE7EE82B0DBA9B00E7131D /* 큐.swift */,
+			);
+			name = "큐";
+			path = "큐";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,6 +197,7 @@
 				CDBE7EE22B0DB87B00E7131D /* 제로.swift in Sources */,
 				CDBE7EE02B0DB79000E7131D /* 스택.swift in Sources */,
 				CDBE7ED12B0DB19900E7131D /* 방번호.swift in Sources */,
+				CDBE7EE92B0DBA9B00E7131D /* 큐.swift in Sources */,
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,
 				CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */,
 				CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */,

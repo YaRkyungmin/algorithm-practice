@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  큐2.swift
 //  BaekjoonWithSwift
 //
 //  Created by kyungmin on 2023/11/22.
@@ -7,4 +7,6 @@
 
 import Foundation
 
-큐2()
+func 큐2() {
+    
+}

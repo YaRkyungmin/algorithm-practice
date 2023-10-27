@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  카드2.swift
 //  BaekjoonWithSwift
 //
 //  Created by kyungmin on 2023/11/22.
@@ -7,4 +7,6 @@
 
 import Foundation
 
-카드2()
+func 카드2() {
+    
+}

@@ -102,3 +102,4 @@
 |10월 20일| [스택 - 탑](https://www.acmicpc.net/problem/2493) |✅||
 |10월 22일| [큐 - 큐](https://www.acmicpc.net/problem/10845) |✅||
 |10월 24일| [큐 - 큐2](https://www.acmicpc.net/problem/18258) |❌|✅|
+|10월 28일| [큐 - 카드2](https://www.acmicpc.net/problem/2164) |✅❌|✅❌|

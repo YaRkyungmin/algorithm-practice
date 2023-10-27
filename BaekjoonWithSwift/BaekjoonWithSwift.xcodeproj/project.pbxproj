@@ -20,6 +20,7 @@
 		CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE52B0DB9D100E7131D /* 탑.swift */; };
 		CDBE7EE92B0DBA9B00E7131D /* 큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EE82B0DBA9B00E7131D /* 큐.swift */; };
 		CDBE7EEB2B0DBB8E00E7131D /* 큐2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EEA2B0DBB8E00E7131D /* 큐2.swift */; };
+		CDBE7EED2B0DC17D00E7131D /* 카드2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EEC2B0DC17D00E7131D /* 카드2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		CDBE7EE52B0DB9D100E7131D /* 탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "탑.swift"; sourceTree = "<group>"; };
 		CDBE7EE82B0DBA9B00E7131D /* 큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "큐.swift"; sourceTree = "<group>"; };
 		CDBE7EEA2B0DBB8E00E7131D /* 큐2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "큐2.swift"; sourceTree = "<group>"; };
+		CDBE7EEC2B0DC17D00E7131D /* 카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "카드2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 			children = (
 				CDBE7EE82B0DBA9B00E7131D /* 큐.swift */,
 				CDBE7EEA2B0DBB8E00E7131D /* 큐2.swift */,
+				CDBE7EEC2B0DC17D00E7131D /* 카드2.swift */,
 			);
 			name = "큐";
 			path = "큐";
@@ -192,6 +195,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDBE7EED2B0DC17D00E7131D /* 카드2.swift in Sources */,
 				CDBE7ED42B0DB32300E7131D /* 두수의합.swift in Sources */,
 				CDBE7EE42B0DB90D00E7131D /* 스택수열.swift in Sources */,
 				CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */,

@@ -103,4 +103,4 @@
 |10월 22일| [큐 - 큐](https://www.acmicpc.net/problem/10845) |✅||
 |10월 24일| [큐 - 큐2](https://www.acmicpc.net/problem/18258) |❌|✅|
 |10월 28일| [큐 - 카드2](https://www.acmicpc.net/problem/2164) |✅||
-|10월 30일| [덱 - 덱](https://www.acmicpc.net/problem/10866) |✅❌|✅❌|
+|10월 30일| [덱 - 덱](https://www.acmicpc.net/problem/10866) |✅||

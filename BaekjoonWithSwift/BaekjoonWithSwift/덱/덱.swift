@@ -9,7 +9,6 @@ import Foundation
 
 func 덱() {
     let N = Int(readLine()!)!
-    var deque = Array(repeating: 0, count: N)
     var head: Node?
     var tail: Node?
     var size = 0

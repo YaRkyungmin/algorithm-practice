@@ -105,4 +105,4 @@
 |10월 28일| [큐 - 카드2](https://www.acmicpc.net/problem/2164) |✅||
 |10월 30일| [덱 - 덱](https://www.acmicpc.net/problem/10866) |✅||
 |11월 1일| [덱 - 회전하는 큐](https://www.acmicpc.net/problem/1021) |✅||
-|11월 3일| [덱 - AC](https://www.acmicpc.net/problem/5430) |❌|✅❌|
+|11월 3일| [덱 - AC](https://www.acmicpc.net/problem/5430) |❌|✅|

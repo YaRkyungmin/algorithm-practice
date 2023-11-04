@@ -19,6 +19,7 @@ func AC() {
         inputArr.removeLast()
         
         let numbers = inputArr.split(separator: ",").map{Int(String($0))!}
+        // readLine()!.dropFirst().dropLast().split(separator: ",").map{Int(String($0))!}
         
         var head = 0
         var tail = len - 1

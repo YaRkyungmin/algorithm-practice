@@ -107,3 +107,8 @@
 |11월 1일| [덱 - 회전하는 큐](https://www.acmicpc.net/problem/1021) |✅||
 |11월 3일| [덱 - AC](https://www.acmicpc.net/problem/5430) |❌|✅|
 |11월 6일| [덱 - 최솟값 찾기](https://www.acmicpc.net/problem/11003) |❌|✅❌|
+
+### KakaoInternship ✨
+| date       | problem set          | solve | review |
+| :----------: | :--------------------: | :----: | :----: | 
+|11월 8일| [2022 - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) |✅❌|✅❌|

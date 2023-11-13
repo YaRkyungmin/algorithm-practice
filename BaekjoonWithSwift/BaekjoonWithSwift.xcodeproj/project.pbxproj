@@ -25,6 +25,7 @@
 		CDBE7EF02B0DCC4B00E7131D /* 덱.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EEF2B0DCC4B00E7131D /* 덱.swift */; };
 		CDBE7EF42B0DE26000E7131D /* 회전하는큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EF32B0DE26000E7131D /* 회전하는큐.swift */; };
 		CDBE7EF62B0DF18900E7131D /* AC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EF52B0DF18900E7131D /* AC.swift */; };
+		CDE528442B1470A0006BFF89 /* 균형잡힌세상.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +60,7 @@
 		CDBE7EEF2B0DCC4B00E7131D /* 덱.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "덱.swift"; sourceTree = "<group>"; };
 		CDBE7EF32B0DE26000E7131D /* 회전하는큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "회전하는큐.swift"; sourceTree = "<group>"; };
 		CDBE7EF52B0DF18900E7131D /* AC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AC.swift; sourceTree = "<group>"; };
+		CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "균형잡힌세상.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				CDBE7EDE2B0DB73B00E7131D /* 스택 */,
 				CDBE7EE72B0DBA8300E7131D /* 큐 */,
 				CDBE7EEE2B0DCC0000E7131D /* 덱 */,
+				CDE528422B14700F006BFF89 /* 스택의활용 */,
 			);
 			path = BaekjoonWithSwift;
 			sourceTree = "<group>";
@@ -156,6 +159,15 @@
 			);
 			name = "덱";
 			path = "덱";
+			sourceTree = "<group>";
+		};
+		CDE528422B14700F006BFF89 /* 스택의활용 */ = {
+			isa = PBXGroup;
+			children = (
+				CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */,
+			);
+			name = "스택의활용";
+			path = "스택의활용";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,6 +242,7 @@
 				CDBE7ED12B0DB19900E7131D /* 방번호.swift in Sources */,
 				CDBE7EF62B0DF18900E7131D /* AC.swift in Sources */,
 				CDBE7EF42B0DE26000E7131D /* 회전하는큐.swift in Sources */,
+				CDE528442B1470A0006BFF89 /* 균형잡힌세상.swift in Sources */,
 				CDBE7EE92B0DBA9B00E7131D /* 큐.swift in Sources */,
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,
 				CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */,

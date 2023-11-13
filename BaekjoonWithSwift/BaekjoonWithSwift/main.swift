@@ -7,4 +7,4 @@
 
 import Foundation
 
-최솟값찾기()
+균형잡힌세상()

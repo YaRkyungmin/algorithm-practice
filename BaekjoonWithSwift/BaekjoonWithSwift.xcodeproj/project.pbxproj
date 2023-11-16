@@ -26,6 +26,7 @@
 		CDBE7EF42B0DE26000E7131D /* 회전하는큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EF32B0DE26000E7131D /* 회전하는큐.swift */; };
 		CDBE7EF62B0DF18900E7131D /* AC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EF52B0DF18900E7131D /* AC.swift */; };
 		CDE528442B1470A0006BFF89 /* 균형잡힌세상.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */; };
+		CDE528462B147FCE006BFF89 /* 좋은단어.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE528452B147FCE006BFF89 /* 좋은단어.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,7 @@
 		CDBE7EF32B0DE26000E7131D /* 회전하는큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "회전하는큐.swift"; sourceTree = "<group>"; };
 		CDBE7EF52B0DF18900E7131D /* AC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AC.swift; sourceTree = "<group>"; };
 		CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "균형잡힌세상.swift"; sourceTree = "<group>"; };
+		CDE528452B147FCE006BFF89 /* 좋은단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "좋은단어.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 			isa = PBXGroup;
 			children = (
 				CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */,
+				CDE528452B147FCE006BFF89 /* 좋은단어.swift */,
 			);
 			name = "스택의활용";
 			path = "스택의활용";
@@ -247,6 +250,7 @@
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,
 				CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */,
 				CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */,
+				CDE528462B147FCE006BFF89 /* 좋은단어.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -108,6 +108,7 @@
 |11월 3일| [덱 - AC](https://www.acmicpc.net/problem/5430) |❌|✅|
 |11월 6일| [덱 - 최솟값 찾기](https://www.acmicpc.net/problem/11003) |❌|✅❌|
 |11월 14일| [스택의 활용(수식의 괄호 쌍) - 균형잡힌 세상](https://www.acmicpc.net/problem/4949) |❌|✅❌|
+|11월 16일| [스택의 활용(수식의 괄호 쌍) - 좋은 단어](https://www.acmicpc.net/problem/3986) |✅||
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

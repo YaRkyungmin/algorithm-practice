@@ -7,4 +7,4 @@
 
 import Foundation
 
-균형잡힌세상()
+좋은단어()

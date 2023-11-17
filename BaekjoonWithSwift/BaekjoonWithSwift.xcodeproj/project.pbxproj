@@ -27,6 +27,7 @@
 		CDBE7EF62B0DF18900E7131D /* AC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EF52B0DF18900E7131D /* AC.swift */; };
 		CDE528442B1470A0006BFF89 /* 균형잡힌세상.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */; };
 		CDE528462B147FCE006BFF89 /* 좋은단어.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE528452B147FCE006BFF89 /* 좋은단어.swift */; };
+		CDE528482B148784006BFF89 /* 괄호.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE528472B148784006BFF89 /* 괄호.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		CDBE7EF52B0DF18900E7131D /* AC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AC.swift; sourceTree = "<group>"; };
 		CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "균형잡힌세상.swift"; sourceTree = "<group>"; };
 		CDE528452B147FCE006BFF89 /* 좋은단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "좋은단어.swift"; sourceTree = "<group>"; };
+		CDE528472B148784006BFF89 /* 괄호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "괄호.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +170,7 @@
 			children = (
 				CDE528432B1470A0006BFF89 /* 균형잡힌세상.swift */,
 				CDE528452B147FCE006BFF89 /* 좋은단어.swift */,
+				CDE528472B148784006BFF89 /* 괄호.swift */,
 			);
 			name = "스택의활용";
 			path = "스택의활용";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDBE7EED2B0DC17D00E7131D /* 카드2.swift in Sources */,
+				CDE528482B148784006BFF89 /* 괄호.swift in Sources */,
 				CDBE7ED42B0DB32300E7131D /* 두수의합.swift in Sources */,
 				CDBE7EF02B0DCC4B00E7131D /* 덱.swift in Sources */,
 				CDBE7EE42B0DB90D00E7131D /* 스택수열.swift in Sources */,

@@ -7,4 +7,4 @@
 
 import Foundation
 
-좋은단어()
+괄호()

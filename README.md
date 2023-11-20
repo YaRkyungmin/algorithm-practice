@@ -110,7 +110,7 @@
 |11월 14일| [스택의 활용(수식의 괄호 쌍) - 균형잡힌 세상](https://www.acmicpc.net/problem/4949) |❌|✅❌|
 |11월 16일| [스택의 활용(수식의 괄호 쌍) - 좋은 단어](https://www.acmicpc.net/problem/3986) |✅||
 |11월 18일| [스택의 활용(수식의 괄호 쌍) - 괄호](https://www.acmicpc.net/problem/9012) |✅||
-|11월 20일| [스택의 활용(수식의 괄호 쌍) - 쇠막대기](https://www.acmicpc.net/problem/10799) |✅❌|✅❌|
+|11월 20일| [스택의 활용(수식의 괄호 쌍) - 쇠막대기](https://www.acmicpc.net/problem/10799) |✅||
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

@@ -7,4 +7,4 @@
 
 import Foundation
 
-쇠막대기()
+괄호의값()

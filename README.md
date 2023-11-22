@@ -70,6 +70,7 @@
 |8월 29일| [동적 계획법 - 퇴사](https://www.acmicpc.net/problem/14501) |❌|✅❌|
 |8월 30일| [동적 계획법 - 이친수](https://www.acmicpc.net/problem/2193) |✅❌|✅❌|
 |9월 4일| [동적 계획법 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |✅||
+|11월 24일| [BFS - 그림](https://www.acmicpc.net/problem/1926) |✅❌|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

@@ -39,20 +39,20 @@ def dfs():
             continue
         else:
             queue = deque()
-            queue.append([node[0], node[1], 1])
+            queue.append([node[0], node[1]])
             visit[node[1]][node[0]] = 1
-            m_depth = 0
+            m_depth = 1
 
             while queue:
-                [x, y, depth] = queue.pop()
+                [x, y] = queue.pop()
                 
                 for i in range(4):
                     if 0 <= x + dx[i] < m and 0 <= y + dy[i] < n and paper[y + dy[i]][x + dx[i]] == 1 and visit[y + dy[i]][x + dx[i]] == 0:
-                        queue.append([x + dx[i], y + dy[i], depth + 1])
+                        queue.append([x + dx[i], y + dy[i]])
                         visit[y + dy[i]][x + dx[i]] = 1
-                        break
+                        m_depth += 1
                 
-                max_depth = max(max_depth, depth)
+            max_depth = max(max_depth, m_depth)
             count += 1
 
 dfs()

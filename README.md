@@ -72,7 +72,7 @@
 |9월 4일| [동적 계획법 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |✅||
 |11월 24일| [BFS - 그림](https://www.acmicpc.net/problem/1926) |❌|✅|
 |11월 26일| [BFS - 미로 탐색](https://www.acmicpc.net/problem/2178) |✅||
-|11월 28일| [BFS - 토마토](https://www.acmicpc.net/problem/7576) |❌|✅❌|
+|11월 28일| [BFS - 토마토](https://www.acmicpc.net/problem/7576) |❌|✅|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

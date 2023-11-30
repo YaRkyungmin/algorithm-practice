@@ -16,14 +16,18 @@ dy = [0,0,-1,1]
 for _ in range(R):
     map.append(list(input().rstrip()))
 queue = deque()
+j_point = []
 for y in range(R):
     for x in range(C):
         if map[y][x] == "F":
             queue.append([x, y, "F", 1])
         elif map[y][x] == "J":
-            queue.append([x, y, "J", 1])
+            j_point = [x, y, "J", 1]
         else:
             continue
+
+            continue
+queue.append(j_point) # 불이 사람보다 더 빠름
 
 result = 0
 signal = False

@@ -73,7 +73,7 @@
 |11월 24일| [BFS - 그림](https://www.acmicpc.net/problem/1926) |❌|✅|
 |11월 26일| [BFS - 미로 탐색](https://www.acmicpc.net/problem/2178) |✅||
 |11월 28일| [BFS - 토마토](https://www.acmicpc.net/problem/7576) |❌|✅|
-|11월 30일| [BFS - 불!](https://www.acmicpc.net/problem/4179) |❌|✅❌|
+|11월 30일| [BFS - 불!](https://www.acmicpc.net/problem/4179) |❌|✅|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

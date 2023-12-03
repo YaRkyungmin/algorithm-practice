@@ -7,4 +7,4 @@
 
 import Foundation
 
-괄호의값()
+적록색약()

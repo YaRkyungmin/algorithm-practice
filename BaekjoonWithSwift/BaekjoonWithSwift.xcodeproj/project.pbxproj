@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD6B13292B1CEF10003613ED /* 적록색약.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6B13282B1CEF10003613ED /* 적록색약.swift */; };
 		CD836DC32B0E481500ABD228 /* 최솟값찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD836DC22B0E481500ABD228 /* 최솟값찾기.swift */; };
 		CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EC52B0DAF4D00E7131D /* main.swift */; };
 		CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CD6B13282B1CEF10003613ED /* 적록색약.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "적록색약.swift"; sourceTree = "<group>"; };
 		CD836DC22B0E481500ABD228 /* 최솟값찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최솟값찾기.swift"; sourceTree = "<group>"; };
 		CDBE7EC22B0DAF4D00E7131D /* BaekjoonWithSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekjoonWithSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBE7EC52B0DAF4D00E7131D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -82,6 +84,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CD6B13272B1CEEDD003613ED /* BFS */ = {
+			isa = PBXGroup;
+			children = (
+				CD6B13282B1CEF10003613ED /* 적록색약.swift */,
+			);
+			path = BFS;
+			sourceTree = "<group>";
+		};
 		CDBE7EB92B0DAF4D00E7131D = {
 			isa = PBXGroup;
 			children = (
@@ -108,6 +118,7 @@
 				CDBE7EE72B0DBA8300E7131D /* 큐 */,
 				CDBE7EEE2B0DCC0000E7131D /* 덱 */,
 				CDE528422B14700F006BFF89 /* 스택의활용 */,
+				CD6B13272B1CEEDD003613ED /* BFS */,
 			);
 			path = BaekjoonWithSwift;
 			sourceTree = "<group>";
@@ -261,6 +272,7 @@
 				CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */,
 				CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */,
 				CDE5284E2B14BAA6006BFF89 /* 괄호의값.swift in Sources */,
+				CD6B13292B1CEF10003613ED /* 적록색약.swift in Sources */,
 				CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */,
 				CDE528462B147FCE006BFF89 /* 좋은단어.swift in Sources */,
 			);

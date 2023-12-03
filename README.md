@@ -77,6 +77,7 @@
 |12월 1일| [BFS - 숨바꼭질](https://www.acmicpc.net/problem/1697) |❌|✅|
 |12월 3일| [BFS - 유기농 배추](https://www.acmicpc.net/problem/1012) |✅||
 |12월 3일| [BFS - 적록색약](https://www.acmicpc.net/problem/10026) |❌|✅|
+|12월 4일| [BFS - 토마토2](https://www.acmicpc.net/problem/7569) |✅❌|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

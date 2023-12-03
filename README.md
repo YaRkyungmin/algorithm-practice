@@ -76,7 +76,7 @@
 |11월 30일| [BFS - 불!](https://www.acmicpc.net/problem/4179) |❌|✅|
 |12월 1일| [BFS - 숨바꼭질](https://www.acmicpc.net/problem/1697) |❌|✅|
 |12월 3일| [BFS - 유기농 배추](https://www.acmicpc.net/problem/1012) |✅||
-|12월 3일| [BFS - 적록색약](https://www.acmicpc.net/problem/10026) |✅❌|✅❌|
+|12월 3일| [BFS - 적록색약](https://www.acmicpc.net/problem/10026) |❌|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

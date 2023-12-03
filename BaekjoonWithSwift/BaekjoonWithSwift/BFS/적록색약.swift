@@ -30,9 +30,9 @@ func 적록색약() {
             case "R":
                 if visit[y][x] == 0 {
                     stack.append([x, y])
+                    visit[y][x] = 1
                     while stack.count > 0 {
                         let node = stack.popLast()!
-                        visit[node[1]][node[0]] = 1
                         for i in 0..<4 {
                             if 0 <= node[1] + dy[i]
                                 && node[1] + dy[i] < N
@@ -41,6 +41,7 @@ func 적록색약() {
                                 && visit[node[1] + dy[i]][node[0] + dx[i]] == 0
                                 && picture[node[1] + dy[i]][node[0] + dx[i]] == "R" {
                                 stack.append([node[0] + dx[i], node[1] + dy[i]])
+                                visit[node[1] + dy[i]][node[0] + dx[i]] = 1
                             }
                         }
                     }
@@ -49,9 +50,9 @@ func 적록색약() {
             case "G":
                 if visit[y][x] == 0 {
                     stack.append([x, y])
+                    visit[y][x] = 1
                     while stack.count > 0 {
                         let node = stack.popLast()!
-                        visit[node[1]][node[0]] = 1
                         for i in 0..<4 {
                             if 0 <= node[1] + dy[i]
                                 && node[1] + dy[i] < N
@@ -60,6 +61,7 @@ func 적록색약() {
                                 && visit[node[1] + dy[i]][node[0] + dx[i]] == 0
                                 && picture[node[1] + dy[i]][node[0] + dx[i]] == "G" {
                                 stack.append([node[0] + dx[i], node[1] + dy[i]])
+                                visit[node[1] + dy[i]][node[0] + dx[i]] = 1
                             }
                         }
                     }
@@ -68,9 +70,9 @@ func 적록색약() {
             case "B":
                 if visit[y][x] == 0 {
                     stack.append([x, y])
+                    visit[y][x] = 1
                     while stack.count > 0 {
                         let node = stack.popLast()!
-                        visit[node[1]][node[0]] = 1
                         for i in 0..<4 {
                             if 0 <= node[1] + dy[i]
                                 && node[1] + dy[i] < N
@@ -79,6 +81,7 @@ func 적록색약() {
                                 && visit[node[1] + dy[i]][node[0] + dx[i]] == 0
                                 && picture[node[1] + dy[i]][node[0] + dx[i]] == "B" {
                                 stack.append([node[0] + dx[i], node[1] + dy[i]])
+                                visit[node[1] + dy[i]][node[0] + dx[i]] = 1
                             }
                         }
                     }
@@ -98,9 +101,9 @@ func 적록색약() {
             case "R", "G":
                 if visit[y][x] == 1 {
                     stack.append([x, y])
+                    visit[y][x] = 0
                     while stack.count > 0 {
                         let node = stack.popLast()!
-                        visit[node[1]][node[0]] = 0
                         for i in 0..<4 {
                             if 0 <= node[1] + dy[i]
                                 && node[1] + dy[i] < N
@@ -109,6 +112,7 @@ func 적록색약() {
                                 && visit[node[1] + dy[i]][node[0] + dx[i]] == 1
                                 && (picture[node[1] + dy[i]][node[0] + dx[i]] == "R" || picture[node[1] + dy[i]][node[0] + dx[i]] == "G") {
                                 stack.append([node[0] + dx[i], node[1] + dy[i]])
+                                visit[node[1] + dy[i]][node[0] + dx[i]] = 0
                             }
                         }
                     }

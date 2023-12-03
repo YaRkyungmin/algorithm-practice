@@ -68,13 +68,14 @@
 |8월 16일| [유니온 파인드 - 여행 가자](https://www.acmicpc.net/problem/1976) |❌|✅❌|
 |8월 28일| [동적 계획법 - 정수를 1로 만들기](https://www.acmicpc.net/problem/1463) |❌|✅❌|
 |8월 29일| [동적 계획법 - 퇴사](https://www.acmicpc.net/problem/14501) |❌|✅❌|
-|8월 30일| [동적 계획법 - 이친수](https://www.acmicpc.net/problem/2193) |✅❌|✅❌|
+|8월 30일| [동적 계획법 - 이친수](https://www.acmicpc.net/problem/2193) |❌|✅❌|
 |9월 4일| [동적 계획법 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |✅||
 |11월 24일| [BFS - 그림](https://www.acmicpc.net/problem/1926) |❌|✅|
 |11월 26일| [BFS - 미로 탐색](https://www.acmicpc.net/problem/2178) |✅||
 |11월 28일| [BFS - 토마토](https://www.acmicpc.net/problem/7576) |❌|✅|
 |11월 30일| [BFS - 불!](https://www.acmicpc.net/problem/4179) |❌|✅|
 |12월 1일| [BFS - 숨바꼭질](https://www.acmicpc.net/problem/1697) |❌|✅|
+|12월 3일| [BFS - 유기농 배추](https://www.acmicpc.net/problem/1697) |✅❌|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

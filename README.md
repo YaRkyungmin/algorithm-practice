@@ -75,7 +75,7 @@
 |11월 28일| [BFS - 토마토](https://www.acmicpc.net/problem/7576) |❌|✅|
 |11월 30일| [BFS - 불!](https://www.acmicpc.net/problem/4179) |❌|✅|
 |12월 1일| [BFS - 숨바꼭질](https://www.acmicpc.net/problem/1697) |❌|✅|
-|12월 3일| [BFS - 유기농 배추](https://www.acmicpc.net/problem/1697) |✅❌|✅❌|
+|12월 3일| [BFS - 유기농 배추](https://www.acmicpc.net/problem/1697) |✅||
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

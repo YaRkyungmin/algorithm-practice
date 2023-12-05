@@ -78,7 +78,7 @@
 |12월 3일| [BFS - 유기농 배추](https://www.acmicpc.net/problem/1012) |✅||
 |12월 3일| [BFS - 적록색약](https://www.acmicpc.net/problem/10026) |❌|✅|
 |12월 4일| [BFS - 토마토2](https://www.acmicpc.net/problem/7569) |✅|✅|
-|12월 5일| [BFS - 나이트의 이동](https://www.acmicpc.net/problem/7562) |✅❌|✅❌|
+|12월 5일| [BFS - 나이트의 이동](https://www.acmicpc.net/problem/7562) |✅||
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

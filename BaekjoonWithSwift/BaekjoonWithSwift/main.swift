@@ -7,4 +7,4 @@
 
 import Foundation
 
-적록색약()
+벽부수고이동하기()

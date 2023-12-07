@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD488E622B21D98F005B16CF /* 벽부수고이동하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD488E612B21D98F005B16CF /* 벽부수고이동하기.swift */; };
 		CD6B13292B1CEF10003613ED /* 적록색약.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6B13282B1CEF10003613ED /* 적록색약.swift */; };
 		CD836DC32B0E481500ABD228 /* 최솟값찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD836DC22B0E481500ABD228 /* 최솟값찾기.swift */; };
 		CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EC52B0DAF4D00E7131D /* main.swift */; };
@@ -46,6 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CD488E612B21D98F005B16CF /* 벽부수고이동하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "벽부수고이동하기.swift"; sourceTree = "<group>"; };
 		CD6B13282B1CEF10003613ED /* 적록색약.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "적록색약.swift"; sourceTree = "<group>"; };
 		CD836DC22B0E481500ABD228 /* 최솟값찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최솟값찾기.swift"; sourceTree = "<group>"; };
 		CDBE7EC22B0DAF4D00E7131D /* BaekjoonWithSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekjoonWithSwift; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				CD6B13282B1CEF10003613ED /* 적록색약.swift */,
+				CD488E612B21D98F005B16CF /* 벽부수고이동하기.swift */,
 			);
 			path = BFS;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				CDBE7EE62B0DB9D100E7131D /* 탑.swift in Sources */,
 				CDE5284E2B14BAA6006BFF89 /* 괄호의값.swift in Sources */,
 				CD6B13292B1CEF10003613ED /* 적록색약.swift in Sources */,
+				CD488E622B21D98F005B16CF /* 벽부수고이동하기.swift in Sources */,
 				CDBE7EDB2B0DB56F00E7131D /* 에디터.swift in Sources */,
 				CDE528462B147FCE006BFF89 /* 좋은단어.swift in Sources */,
 			);

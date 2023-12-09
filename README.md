@@ -126,6 +126,7 @@
 |11월 22일| [스택의 활용(수식의 괄호 쌍) - 괄호의 값](https://www.acmicpc.net/problem/2504) |❌|✅❌|
 |12월 3일| [BFS - 적록색약](https://www.acmicpc.net/problem/10026) |✅|✅|
 |12월 7일| [BFS - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |❌|✅|
+|12월 8일| [BFS - 텀 프로젝트](https://www.acmicpc.net/problem/9466) |✅❌|✅❌|
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

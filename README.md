@@ -82,7 +82,7 @@
 |12월 6일| [BFS - 불](https://www.acmicpc.net/problem/5427) |✅||
 |12월 7일| [BFS - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |❌|✅|
 |12월 8일| [BFS - 텀 프로젝트](https://www.acmicpc.net/problem/9466) |✅|✅❌|
-|12월 9일| [BFS - 빙산](https://www.acmicpc.net/problem/2573) |✅|✅❌|
+|12월 9일| [BFS - 빙산](https://www.acmicpc.net/problem/2573) |✅|✅|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

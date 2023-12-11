@@ -12,7 +12,7 @@ N, K = map(int, input().rstrip().split())
 queue = deque()
 queue.append((N, 0))
 visit = [10000000 for _ in range(100003)]
-visit[N] = 1
+visit[N] = 0
 m_time = 10000000
 while queue:
     nn, time = queue.popleft()
@@ -24,7 +24,7 @@ while queue:
         queue.append((nn + 1, time + 1))
         visit[nn + 1] = time + 1
         
-    if nn - 1 >- -2\
+    if nn - 1 >= 0\
     and visit[nn - 1] > time + 1:
         queue.append((nn - 1, time + 1))
         visit[nn - 1] = time + 1

@@ -7,4 +7,4 @@
 
 import Foundation
 
-텀프로젝트()
+곱셈()

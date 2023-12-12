@@ -86,7 +86,7 @@
 |12월 10일| [BFS - 다리 만들기](https://www.acmicpc.net/problem/2146) |❌|✅❌|
 |12월 11일| [BFS - 숨바꼭질 3](https://www.acmicpc.net/problem/13549) |❌|✅|
 |12월 12일| [BFS - 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |✅|✅❌|
-|12월 12일| [재귀 - 곱셈](https://www.acmicpc.net/problem/1629) |✅❌|✅❌|
+|12월 12일| [재귀 - 곱셈](https://www.acmicpc.net/problem/1629) |❌|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

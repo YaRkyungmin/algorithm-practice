@@ -17,7 +17,7 @@ m_time = 10000000
 while queue:
     nn, time = queue.popleft()
     if nn == K:
-        continue
+        break
 
     if nn + 1 <= 100002\
     and visit[nn + 1] > time + 1:

@@ -12,13 +12,20 @@ func 곱셈() {
     let A = input[0]
     let B = input[1]
     let C = input[2]
-    print(recursive(cnt: 0, total: 1))
+    print(recursive(cnt: B))
     
-    func recursive(cnt: Int, total: Int) -> Int {
-        if cnt == B {
-            return total % C
+    func recursive(cnt: Int) -> Int {
+        if cnt == 0 {
+            return 1
         }
-
-        return recursive(cnt: cnt + 1, total: (total * A) % C )
+        
+        var tmp = recursive(cnt: cnt / 2) % C
+        tmp = (tmp * tmp) % C
+        
+        if cnt % 2 == 0 {
+            return tmp
+        } else {
+            return (tmp * A) % C
+        }
     }
 }

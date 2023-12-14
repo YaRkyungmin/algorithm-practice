@@ -88,7 +88,7 @@
 |12월 12일| [BFS - 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |✅|✅❌|
 |12월 12일| [재귀 - 곱셈](https://www.acmicpc.net/problem/1629) |❌|✅|
 |12월 13일| [재귀 - 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |❌|✅|
-|12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅❌|✅❌|
+|12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

@@ -89,7 +89,7 @@
 |12월 12일| [재귀 - 곱셈](https://www.acmicpc.net/problem/1629) |❌|✅|
 |12월 13일| [재귀 - 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |❌|✅|
 |12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅|✅❌|
-|12월 15일| [재귀 - 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |✅❌|✅❌|
+|12월 15일| [재귀 - 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |✅||
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

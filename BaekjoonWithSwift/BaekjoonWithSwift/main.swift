@@ -7,4 +7,4 @@
 
 import Foundation
 
-곱셈()
+Z()

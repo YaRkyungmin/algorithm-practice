@@ -135,6 +135,7 @@
 |12월 7일| [BFS - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |❌|✅|
 |12월 8일| [BFS - 텀 프로젝트](https://www.acmicpc.net/problem/9466) |✅||
 |12월 12일| [재귀 - 곱셈](https://www.acmicpc.net/problem/1629) |❌|✅|
+|12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅||
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

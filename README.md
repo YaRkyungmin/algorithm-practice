@@ -91,7 +91,7 @@
 |12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅|✅❌|
 |12월 15일| [재귀 - 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |✅|✅❌|
 |12월 16일| [재귀 - 종이의 개수](https://www.acmicpc.net/problem/1780) |✅||
-|12월 16일| [다이나믹 프로그래밍 - 1로 만들기](https://www.acmicpc.net/problem/1463) |✅❌|✅❌|
+|12월 16일| [다이나믹 프로그래밍 - 1로 만들기](https://www.acmicpc.net/problem/1463) |✅||
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

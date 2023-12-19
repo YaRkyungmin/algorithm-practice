@@ -94,7 +94,7 @@
 |12월 16일| [다이나믹 프로그래밍 - 1로 만들기](https://www.acmicpc.net/problem/1463) |✅||
 |12월 17일| [재귀 - 색종이 만들기](https://www.acmicpc.net/problem/2630) |✅||
 |12월 18일| [재귀 - 쿼드트리](https://www.acmicpc.net/problem/1992) |✅||
-|12월 19일| [재귀 - 별 찍기 10](https://www.acmicpc.net/problem/1992) |✅❌|✅❌|
+|12월 19일| [재귀 - 별 찍기 10](https://www.acmicpc.net/problem/1992) |✅||
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

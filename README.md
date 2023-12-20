@@ -95,7 +95,7 @@
 |12월 17일| [재귀 - 색종이 만들기](https://www.acmicpc.net/problem/2630) |✅||
 |12월 18일| [재귀 - 쿼드트리](https://www.acmicpc.net/problem/1992) |✅||
 |12월 19일| [재귀 - 별 찍기 10](https://www.acmicpc.net/problem/1992) |✅||
-|12월 19일| [다익스트라 알고리즘 - 최단경로](https://www.acmicpc.net/problem/1753) |❌|✅❌|
+|12월 19일| [다익스트라 알고리즘 - 최단경로](https://www.acmicpc.net/problem/1753) |❌|✅|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

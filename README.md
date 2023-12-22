@@ -99,7 +99,7 @@
 |12월 20일| [다익스트라 알고리즘 - 최소비용 구하기 2](https://www.acmicpc.net/problem/11779) |✅|✅❌|
 |12월 21일| [재귀 - 별 찍기 11](https://www.acmicpc.net/problem/2448) |✅||
 |12월 21일| [다익스트라 알고리즘 - 파티](https://www.acmicpc.net/problem/1238) |✅|✅❌|
-|12월 21일| [다익스트라 알고리즘 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) |✅❌|✅❌|
+|12월 21일| [다익스트라 알고리즘 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) |✅|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

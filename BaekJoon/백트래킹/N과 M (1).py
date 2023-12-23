@@ -8,18 +8,19 @@ import sys
 input = sys.stdin.readline
 
 N, M = map(int, input().rstrip().split())
-def sequence(m, partial):
-    global N
-    if m == 1:
-        for i in range(1, N + 1):
-            if i not in partial:
-                partial.append(i)
-        return partial
-    arr = []
+arr = [0 for _ in range(M)]
+visit = [False for _ in range(N + 1)]
+
+def permutatation(k):
+    global N, M
+    if k == M:
+        print(*arr)
+        return
     for i in range(1, N + 1):
-        arr.append(sequence(m - 1))
-        partial.append(arr)
+        if not visit[i]:
+            arr[k] = i
+            visit[i] = True
+            permutatation(k + 1)
+            visit[i] = False
 
-    return partial
-
-print(sequence(M, []))
+permutatation(0)

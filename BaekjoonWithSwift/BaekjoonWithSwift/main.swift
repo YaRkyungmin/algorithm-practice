@@ -7,4 +7,4 @@
 
 import Foundation
 
-Z()
+부분수열의합()

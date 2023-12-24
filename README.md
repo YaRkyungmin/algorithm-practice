@@ -101,7 +101,7 @@
 |12월 21일| [다익스트라 알고리즘 - 파티](https://www.acmicpc.net/problem/1238) |✅|✅❌|
 |12월 21일| [다익스트라 알고리즘 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) |✅|✅❌|
 |12월 22일| [백트래킹 - N과 M (1)](https://www.acmicpc.net/problem/15649) |❌|✅❌|
-|12월 23일| [백트래킹 - N-Queen](https://www.acmicpc.net/problem/9663) |✅❌|✅❌|
+|12월 23일| [백트래킹 - N-Queen](https://www.acmicpc.net/problem/9663) |❌|✅❌|
 
 ### Programmers ✨
 | date       | problem set          | solve | review |

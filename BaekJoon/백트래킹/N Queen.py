@@ -8,70 +8,29 @@ import sys
 input = sys.stdin.readline
 
 N = int(input().rstrip())
-is_ok = [[True] * N for _ in range(N)]
+is_ok_1 = [[True] for _ in range(N)] # y축
+is_ok_3 = [[True] for _ in range(N * 2 - 1)] # 슬래쉬 /
+is_ok_4 = [[True] for _ in range(N * 2 - 1)] # 역슬래쉬 \
+cnt = 0
 
-def combination1():
-    global N, is_ok
-    cnt = 0
-    check_set = set()
-    for dy in range(N):
-        for dx in range(N):
-            setup_checked(check_set)
-            check1(dx, dy)
-            check2(dx, dy)
-            cnt += find_true()
-
-            is_ok = [[True] * N for _ in range(N)]
-            check_set.add((dx, dy))
-    return cnt
-
-def setup_checked(n):
-    for x, y in n:
-        is_ok[y][x] = False
-
-def check1(x, y):
-    global N
-    for cx in range(N):
-        is_ok[y][cx] = False
-    for cy in range(N):
-        is_ok[cy][x] = False
-def check2(x, y):
-    global N
-    cx = x
-    cy = y
-    while 0 <= cx and 0 <= cy:
-        is_ok[cy][cx] = False
-        cx -= 1
-        cy -= 1
-                
-    cx = x
-    cy = y
-    while 0 <= cx and cy < N:
-        is_ok[cy][cx] = False
-        cx -= 1
-        cy += 1
-
-    cx = x
-    cy = y
-    while cx < N and cy < N:
-        is_ok[cy][cx] = False
-        cx += 1
-        cy += 1
-
-    cx = x
-    cy = y
-    while cx < N and 0 <= cy:
-        is_ok[cy][cx] = False
-        cx += 1
-        cy -= 1
-
-def find_true():
-    global N
-    cnt = 0
-    for y in range(N):
-        for x in range(N):
-            cnt += 1 if is_ok[y][x] == True else 0
+def combination(k):
+    global N, cnt
+    if k == N:
+        cnt += 1
+        return
     
-    return cnt
-
-print(combination1())
+    for dx in range(N):
+        if is_ok_1[dx]\
+        and is_ok_3[k + dx]\
+        and is_ok_4[k - dx]:
+            
+            is_ok_1[dx] = False
+            is_ok_3[k + dx] = False
+            is_ok_4[k - dx] = False
+            combination(k + 1)
+            is_ok_1[dx] = True
+            is_ok_3[k + dx] = True
+            is_ok_4[k - dx] = True
+        
+combination(0)
+print(cnt)

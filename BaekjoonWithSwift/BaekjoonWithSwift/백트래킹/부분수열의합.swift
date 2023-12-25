@@ -13,29 +13,16 @@ func 부분수열의합() {
     let S = input[1]
     
     let permutation = readLine()!.split(separator: " ").compactMap { Int($0) }
-    var set = Set<Int>()
-    
-    for i in 0..<N {
-        set.insert(i)
-    }
-    
     var cnt = 0
     
-    func findS(arr: Set<Int>, sum: Int) {
-        if arr.count == 0 {
-            return
-        }
-        
-        for i in arr {
+    func findS(sum: Int, k: Int) {
+        for i in k..<N {
             let newSum = permutation[i] + sum
             cnt += (newSum == S) ? 1 : 0
-            var newArr = arr
-            newArr.remove(i)
-            findS(arr: newArr, sum: newSum)
+            findS(sum: newSum, k: i + 1)
         }
     }
     
-    findS(arr: set, sum: 0)
+    findS(sum: 0, k: 0)
     print(cnt)
 }
-

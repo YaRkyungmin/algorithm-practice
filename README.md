@@ -149,7 +149,7 @@
 |12월 8일| [BFS - 텀 프로젝트](https://www.acmicpc.net/problem/9466) |✅||
 |12월 12일| [재귀 - 곱셈](https://www.acmicpc.net/problem/1629) |❌|✅|
 |12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅||
-|12월 24일| [백트래킹 - 부분수열의 합](https://www.acmicpc.net/problem/1182) |✅❌|✅❌|
+|12월 24일| [백트래킹 - 부분수열의 합](https://www.acmicpc.net/problem/1182) |❌|✅❌|
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

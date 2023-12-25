@@ -7,4 +7,4 @@
 
 import Foundation
 
-부분수열의합()
+N과M2()

@@ -151,6 +151,7 @@
 |12월 14일| [재귀 - Z](https://www.acmicpc.net/problem/1074) |✅||
 |12월 24일| [백트래킹 - 부분수열의 합](https://www.acmicpc.net/problem/1182) |❌|✅❌|
 |12월 25일| [백트래킹 - N과 M (2)](https://www.acmicpc.net/problem/15650) |✅|✅❌|
+|12월 26일| [백트래킹 - N과 M (3)](https://www.acmicpc.net/problem/15651) |✅❌|✅❌|
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

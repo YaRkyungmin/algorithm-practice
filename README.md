@@ -152,6 +152,7 @@
 |12월 24일| [백트래킹 - 부분수열의 합](https://www.acmicpc.net/problem/1182) |❌|✅❌|
 |12월 25일| [백트래킹 - N과 M (2)](https://www.acmicpc.net/problem/15650) |✅|✅❌|
 |12월 26일| [백트래킹 - N과 M (3)](https://www.acmicpc.net/problem/15651) |✅||
+|12월 27일| [백트래킹 - N과 M (4)](https://www.acmicpc.net/problem/15652) |✅||
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

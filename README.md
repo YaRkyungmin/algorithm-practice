@@ -155,7 +155,7 @@
 |12월 27일| [백트래킹 - N과 M (4)](https://www.acmicpc.net/problem/15652) |✅||
 |12월 28일| [백트래킹 - N과 M (5)](https://www.acmicpc.net/problem/15654) |✅||
 |12월 29일| [백트래킹 - N과 M (6)](https://www.acmicpc.net/problem/15655) |✅||
-|12월 30일| [백트래킹 - N과 M (7)](https://www.acmicpc.net/problem/15656) |❌|✅❌|
+|12월 30일| [백트래킹 - N과 M (7)](https://www.acmicpc.net/problem/15656) |❌|✅|
 
 ### KakaoInternship ✨
 | date       | problem set          | solve | review |

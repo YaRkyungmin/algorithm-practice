@@ -164,3 +164,10 @@
 |11월 8일| [2022 - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) |✅||
 |11월 10일| [2022 - 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |✅||
 |11월 12일| [2022 - 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |❌|✅❌|
+
+# Algorithm2024 🧑🏻‍💻
+
+### BaekJoon with Swift ✨
+| date       | problem set          | solve | review |
+| :----------: | :--------------------: | :----: | :----: | 
+|1월 1일| [백트래킹 - N과 M (9)](https://www.acmicpc.net/problem/15663) |✅❌|✅❌|

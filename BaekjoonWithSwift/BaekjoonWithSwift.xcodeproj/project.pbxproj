@@ -21,6 +21,7 @@
 		CD6B13292B1CEF10003613ED /* 적록색약.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6B13282B1CEF10003613ED /* 적록색약.swift */; };
 		CD836DC32B0E481500ABD228 /* 최솟값찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD836DC22B0E481500ABD228 /* 최솟값찾기.swift */; };
 		CDB66E5C2B459BD2001E8E2D /* N과M(10).swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB66E5B2B459BD2001E8E2D /* N과M(10).swift */; };
+		CDB66E5E2B459D30001E8E2D /* N과M(11).swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB66E5D2B459D30001E8E2D /* N과M(11).swift */; };
 		CDBE06D42B2851B30070D755 /* 곱셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE06D32B2851B30070D755 /* 곱셈.swift */; };
 		CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EC52B0DAF4D00E7131D /* main.swift */; };
 		CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */; };
@@ -74,6 +75,7 @@
 		CD6B13282B1CEF10003613ED /* 적록색약.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "적록색약.swift"; sourceTree = "<group>"; };
 		CD836DC22B0E481500ABD228 /* 최솟값찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최솟값찾기.swift"; sourceTree = "<group>"; };
 		CDB66E5B2B459BD2001E8E2D /* N과M(10).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N과M(10).swift"; sourceTree = "<group>"; };
+		CDB66E5D2B459D30001E8E2D /* N과M(11).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N과M(11).swift"; sourceTree = "<group>"; };
 		CDBE06D32B2851B30070D755 /* 곱셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "곱셈.swift"; sourceTree = "<group>"; };
 		CDBE7EC22B0DAF4D00E7131D /* BaekjoonWithSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekjoonWithSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBE7EC52B0DAF4D00E7131D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				CD2C1A3F2B455EF30069C4D6 /* N과M(8).swift */,
 				CD2C1A412B458A590069C4D6 /* N과M(9).swift */,
 				CDB66E5B2B459BD2001E8E2D /* N과M(10).swift */,
+				CDB66E5D2B459D30001E8E2D /* N과M(11).swift */,
 			);
 			name = "백트래킹";
 			path = "백트래킹";
@@ -320,6 +323,7 @@
 				CDF484DD2B2C1AB300749665 /* Z.swift in Sources */,
 				CDBE7ED42B0DB32300E7131D /* 두수의합.swift in Sources */,
 				CDBE7EF02B0DCC4B00E7131D /* 덱.swift in Sources */,
+				CDB66E5E2B459D30001E8E2D /* N과M(11).swift in Sources */,
 				CDBE7EE42B0DB90D00E7131D /* 스택수열.swift in Sources */,
 				CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */,
 				CD2C1A402B455EF30069C4D6 /* N과M(8).swift in Sources */,

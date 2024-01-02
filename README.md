@@ -171,3 +171,4 @@
 | date       | problem set          | solve | review |
 | :----------: | :--------------------: | :----: | :----: | 
 |1월 1일| [백트래킹 - N과 M (9)](https://www.acmicpc.net/problem/15663) |✅||
+|1월 2일| [백트래킹 - N과 M (10)](https://www.acmicpc.net/problem/15664) |✅❌|✅❌|

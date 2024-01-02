@@ -7,4 +7,4 @@
 
 import Foundation
 
-N과M9()
+N과M10()

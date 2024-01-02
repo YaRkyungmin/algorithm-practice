@@ -172,4 +172,4 @@
 | :----------: | :--------------------: | :----: | :----: | 
 |1월 1일| [백트래킹 - N과 M (9)](https://www.acmicpc.net/problem/15663) |✅||
 |1월 2일| [백트래킹 - N과 M (10)](https://www.acmicpc.net/problem/15664) |✅||
-|1월 2일| [백트래킹 - N과 M (11)](https://www.acmicpc.net/problem/15665) |✅❌|✅❌|
+|1월 2일| [백트래킹 - N과 M (11)](https://www.acmicpc.net/problem/15665) |✅||

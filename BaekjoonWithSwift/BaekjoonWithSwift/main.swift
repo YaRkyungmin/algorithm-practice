@@ -7,4 +7,4 @@
 
 import Foundation
 
-암호만들기()
+소문난칠공주()

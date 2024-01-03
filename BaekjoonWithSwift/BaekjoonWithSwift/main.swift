@@ -7,4 +7,4 @@
 
 import Foundation
 
-로또()
+암호만들기()

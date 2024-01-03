@@ -7,4 +7,4 @@
 
 import Foundation
 
-N과M12()
+로또()

@@ -23,6 +23,7 @@
 		CDB66E5C2B459BD2001E8E2D /* N과M(10).swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB66E5B2B459BD2001E8E2D /* N과M(10).swift */; };
 		CDB66E5E2B459D30001E8E2D /* N과M(11).swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB66E5D2B459D30001E8E2D /* N과M(11).swift */; };
 		CDB66E602B459E59001E8E2D /* N과M(12).swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB66E5F2B459E59001E8E2D /* N과M(12).swift */; };
+		CDB66E622B45A044001E8E2D /* 로또.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB66E612B45A044001E8E2D /* 로또.swift */; };
 		CDBE06D42B2851B30070D755 /* 곱셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE06D32B2851B30070D755 /* 곱셈.swift */; };
 		CDBE7EC62B0DAF4D00E7131D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7EC52B0DAF4D00E7131D /* main.swift */; };
 		CDBE7ECD2B0DAF6F00E7131D /* 숫자의개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE7ECC2B0DAF6F00E7131D /* 숫자의개수.swift */; };
@@ -78,6 +79,7 @@
 		CDB66E5B2B459BD2001E8E2D /* N과M(10).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N과M(10).swift"; sourceTree = "<group>"; };
 		CDB66E5D2B459D30001E8E2D /* N과M(11).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N과M(11).swift"; sourceTree = "<group>"; };
 		CDB66E5F2B459E59001E8E2D /* N과M(12).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N과M(12).swift"; sourceTree = "<group>"; };
+		CDB66E612B45A044001E8E2D /* 로또.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "로또.swift"; sourceTree = "<group>"; };
 		CDBE06D32B2851B30070D755 /* 곱셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "곱셈.swift"; sourceTree = "<group>"; };
 		CDBE7EC22B0DAF4D00E7131D /* BaekjoonWithSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekjoonWithSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBE7EC52B0DAF4D00E7131D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				CDB66E5B2B459BD2001E8E2D /* N과M(10).swift */,
 				CDB66E5D2B459D30001E8E2D /* N과M(11).swift */,
 				CDB66E5F2B459E59001E8E2D /* N과M(12).swift */,
+				CDB66E612B45A044001E8E2D /* 로또.swift */,
 			);
 			name = "백트래킹";
 			path = "백트래킹";
@@ -334,6 +337,7 @@
 				CDBE7ED82B0DB47F00E7131D /* 개수세기.swift in Sources */,
 				CDBE7EDD2B0DB6C800E7131D /* 요세푸스문제.swift in Sources */,
 				CD5E573B2B3CAAA300225ED6 /* 부분수열의합.swift in Sources */,
+				CDB66E622B45A044001E8E2D /* 로또.swift in Sources */,
 				CD836DC32B0E481500ABD228 /* 최솟값찾기.swift in Sources */,
 				CDBE7EE22B0DB87B00E7131D /* 제로.swift in Sources */,
 				CDBE7EEB2B0DBB8E00E7131D /* 큐2.swift in Sources */,

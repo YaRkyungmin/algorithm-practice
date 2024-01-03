@@ -175,4 +175,4 @@
 |1월 2일| [백트래킹 - N과 M (11)](https://www.acmicpc.net/problem/15665) |✅||
 |1월 2일| [백트래킹 - N과 M (12)](https://www.acmicpc.net/problem/15666) |✅||
 |1월 3일| [백트래킹 - 로또](https://www.acmicpc.net/problem/6603) |✅||
-|1월 4일| [백트래킹 - 암호 만들기](https://www.acmicpc.net/problem/1759) |✅❌|✅❌|
+|1월 4일| [백트래킹 - 암호 만들기](https://www.acmicpc.net/problem/1759) |✅||

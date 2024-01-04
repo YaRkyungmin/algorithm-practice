@@ -7,4 +7,4 @@
 
 import Foundation
 
-소문난칠공주()
+계란으로계란치기()

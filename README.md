@@ -177,4 +177,4 @@
 |1월 3일| [백트래킹 - 로또](https://www.acmicpc.net/problem/6603) |✅||
 |1월 4일| [백트래킹 - 암호 만들기](https://www.acmicpc.net/problem/1759) |✅||
 |1월 4일| [백트래킹 - 소문난 칠공주](https://www.acmicpc.net/problem/1941) |❌|✅❌|
-|1월 4일| [백트래킹 - 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |✅❌|✅❌|
+|1월 4일| [백트래킹 - 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |❌|✅❌|

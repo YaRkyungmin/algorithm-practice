@@ -7,4 +7,4 @@
 
 import Foundation
 
-계란으로계란치기()
+Gaaaaaaaaaarden()

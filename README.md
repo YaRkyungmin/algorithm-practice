@@ -178,4 +178,4 @@
 |1월 4일| [백트래킹 - 암호 만들기](https://www.acmicpc.net/problem/1759) |✅||
 |1월 4일| [백트래킹 - 소문난 칠공주](https://www.acmicpc.net/problem/1941) |❌|✅❌|
 |1월 4일| [백트래킹 - 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |❌|✅❌|
-|1월 5일| [백트래킹 - Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |✅❌|✅❌|
+|1월 5일| [백트래킹 - Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |❌|✅❌|

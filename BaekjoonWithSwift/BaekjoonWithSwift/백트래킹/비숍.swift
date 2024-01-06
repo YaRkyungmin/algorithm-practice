@@ -9,6 +9,7 @@ import Foundation
 
 func 비숍() {
     // 탐색수를 줄이는 것이 핵심인 문제
+    // 체스판의 흑/백은 비숍이 상호간 이동이 불가능 하다
     let N = Int(readLine()!)!
     var gMap = [[Int]]()
     // 비숍 놓을 수 있는 곳 1, 비숍 놓을 수 없는 곳 0
@@ -30,13 +31,13 @@ func 비숍() {
     var result = 0
     
     func findBishop(max: Int, count: Int) { //우상향 대각선 번호, 비숍 놓은 횟수
-        if max == 2 * N - 1{
+        if max >= 2 * N - 1 {
             result = result < count ? count : result
             return
         }
         
         if oneList[max].count == 0 {
-            findBishop(max: max + 1, count: count)
+            findBishop(max: max + 2, count: count)
             return
         }
         
@@ -47,17 +48,21 @@ func 비숍() {
             if !checkList[cConstant] {
                 exeCount += 1
                 checkList[cConstant] = true
-                findBishop(max: max + 1, count: count + 1)
+                findBishop(max: max + 2, count: count + 1)
                 checkList[cConstant] = false
             }
         }
         
         if exeCount == 0 {
-            findBishop(max: max + 1, count: count)
+            findBishop(max: max + 2, count: count)
         }
     }
-    
+    // 흰색판 검정색판을 따로 계산
     findBishop(max: 0, count: 0)
+    var total = result
+    result = 0
+    findBishop(max: 1, count: 0)
+    total += result
     
-    print(result)
+    print(total)
 }

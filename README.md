@@ -182,4 +182,4 @@
 |1월 6일| [백트래킹 - 비숍](https://www.acmicpc.net/problem/1799) |❌|✅❌|
 |1월 7일| [시뮬레이션 - 감시](https://www.acmicpc.net/problem/15683) |✅|✅❌|
 |1월 8일| [정렬 1 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅||
-|1월 8일| [정렬 1 - 수 정렬하기2](https://www.acmicpc.net/problem/2751) |✅❌|✅❌|
+|1월 8일| [정렬 1 - 수 정렬하기2](https://www.acmicpc.net/problem/2751) |✅||

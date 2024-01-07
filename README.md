@@ -181,4 +181,4 @@
 |1월 5일| [백트래킹 - Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |❌|✅❌|
 |1월 6일| [백트래킹 - 비숍](https://www.acmicpc.net/problem/1799) |❌|✅❌|
 |1월 7일| [시뮬레이션 - 감시](https://www.acmicpc.net/problem/15683) |✅|✅❌|
-|1월 8일| [정렬 1 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅❌|✅❌|
+|1월 8일| [정렬 1 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅||

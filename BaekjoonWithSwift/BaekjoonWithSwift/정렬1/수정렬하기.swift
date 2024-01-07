@@ -8,5 +8,13 @@
 import Foundation
 
 func 수정렬하기() {
-    
+    let N = Int(readLine()!)!
+    var numbers = [Int]()
+    for _ in 0..<N {
+        numbers.append(Int(readLine()!)!)
+    }
+    numbers.sort()
+    for i in numbers {
+        print(i)
+    }
 }

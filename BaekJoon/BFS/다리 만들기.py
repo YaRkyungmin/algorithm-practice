@@ -5,60 +5,61 @@ title: 다리 만들기
 time: 30분
 """
 import sys
-input = sys.stdin.readline
 from collections import deque
 
-N = int(input().rstrip())
+input = sys.stdin.readline
 
-T = [list(map(int, input().rstrip().split())) for _ in range(N)]
+N = int(input())
+group = [list(map(int, input().rstrip().split())) for _ in range(N)]
+g_num = 1
+queue = deque()
+dx = [0, 0, 1, -1]
+dy = [1, -1, 0, 0]
+visit = [[0 for _ in range(N)] for _ in range(N)]
+genuine = deque()
 
-min_c = 10000000
-dx = [1, -1, 0, 0]
-dy = [0, 0, -1, 1]
-visit = [[0] * N for _ in range(N)] # 대륙찾아놓을때 그냥 지도 방문
+def dfs():
+    global g_num
+    while queue:
+        x, y = queue.popleft()
+        for i in range(4):
+            px = x + dx[i]
+            py = y + dy[i]
+            if 0 <= px < N\
+            and 0 <= py < N\
+            and visit[py][px] == 0\
+            and group[py][px] == 1:
+                group[py][px] = g_num
+                visit[py][px] = 1
+                queue.append((px, py))
+                genuine.append((px, py))
+
 for y in range(N):
     for x in range(N):
-        if T[y][x] == 1 and visit[y][x] == 0:
-            queue1 = deque()
-            queue1.append((x, y)) 
+        if group[y][x] == 1 and visit[y][x] == 0:
+            queue.append((x, y))
+            group[y][x] = g_num
+            genuine.append((x, y))
             visit[y][x] = 1
-            while queue1:
-                nx, ny = queue1.popleft()
-                for i in range(4):
-                    px = nx + dx[i]
-                    py = ny + dy[i]
-                    if 0 <= px < N\
-                    and 0 <= py < N\
-                    and visit[py][px] == 0\
-                    and T[py][px] == 1:
-                        visit[py][px] = 1
-                        queue1.append((px, py))
+            dfs()
+            g_num += 1
+result = 10000000
+def bfs():
+    global result
+    while genuine:
+        x, y = genuine.popleft()
+        p_num = group[y][x]
+        for i in range(4):
+            px = x + dx[i]
+            py = y + dy[i]
 
-            queue2 = deque()
-            queue2.append((x, y, 0))
-            p_visit = [[0] * N for _ in range(N)] #바다지나는 방문
-            p_visit[y][x] = 1
-            signal = False
-            while queue2:
-                nx, ny, c = queue2.popleft()
-                for i in range(4):
-                    px = nx + dx[i]
-                    py = ny + dy[i]
-                    if 0 <= px < N\
-                    and 0 <= py < N:
-                        if T[py][px] == 1 and p_visit[py][px] == 0: # 대륙이고 방문 안했을 때
-                            if c == 0: #국토일때
-                                p_visit[py][px] = 1
-                                queue2.append((px, py, c))
-                            elif visit[py][px] == 0: #다른나라일때
-                                min_c = min(c, min_c)
-                        elif T[py][px] == 0: # 바다이고 방문 하거나 안했거나
-                            if p_visit[py][px] == 0: # 누군가 지나가지 않은 바다 일때
-                                p_visit[py][px] = c + 1
-                                queue2.append((px, py, c + 1))
-                            else: # 누군가 지나간 바다 일때
-                                if c + 1 < p_visit[py][px]:
-                                    p_visit[py][px] = c + 1
-                                    queue2.append((px, py, c + 1))
-
-print(min_c)
+            if 0 <= px < N\
+            and 0 <= py < N:
+                if group[py][px] == 0:
+                    group[py][px] = p_num
+                    visit[py][px] = visit[y][x] + 1
+                    genuine.append((px, py))
+                elif group[py][px] != p_num:
+                    result = min(result, visit[y][x] + visit[py][px] - 2)
+bfs()
+print(result)

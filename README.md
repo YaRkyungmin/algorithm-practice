@@ -183,4 +183,4 @@
 |1월 7일| [시뮬레이션 - 감시](https://www.acmicpc.net/problem/15683) |✅|✅❌|
 |1월 8일| [정렬 1 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅||
 |1월 8일| [정렬 1 - 수 정렬하기2](https://www.acmicpc.net/problem/2751) |✅||
-|1월 9일| [정렬 1 - 좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |✅❌|✅❌|
+|1월 9일| [정렬 1 - 좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |❌|✅❌|

@@ -7,4 +7,4 @@
 
 import Foundation
 
-수정렬하기2()
+좌표정렬하기2()

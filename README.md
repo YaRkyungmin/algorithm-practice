@@ -188,4 +188,4 @@
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |
 | :----------: | :--------------------: | :----: | :----: | 
-|1월 9일| [정렬 1 - 좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |✅❌|✅❌|
+|1월 9일| [정렬 1 - 좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |❌|✅❌|

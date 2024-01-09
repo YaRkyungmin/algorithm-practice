@@ -184,7 +184,7 @@
 |1월 8일| [정렬 1 - 수 정렬하기](https://www.acmicpc.net/problem/2750) |✅||
 |1월 8일| [정렬 1 - 수 정렬하기2](https://www.acmicpc.net/problem/2751) |✅||
 |1월 9일| [정렬 1 - 좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |❌|✅❌|
-|1월 10일| [정렬 2 - 시리얼 번호](https://www.acmicpc.net/problem/1431) |✅❌|✅❌|
+|1월 10일| [정렬 2 - 시리얼 번호](https://www.acmicpc.net/problem/1431) |❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

@@ -7,4 +7,4 @@
 
 import Foundation
 
-시리얼번호()
+빈도정렬()

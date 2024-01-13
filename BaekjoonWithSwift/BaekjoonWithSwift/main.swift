@@ -7,4 +7,4 @@
 
 import Foundation
 
-빈도정렬()
+일로만들기()

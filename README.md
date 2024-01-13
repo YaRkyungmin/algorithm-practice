@@ -186,6 +186,7 @@
 |1월 9일| [정렬 1 - 좌표 정렬하기2](https://www.acmicpc.net/problem/11651) |❌|✅❌|
 |1월 10일| [정렬 2 - 시리얼 번호](https://www.acmicpc.net/problem/1431) |❌|✅❌|
 |1월 11일| [정렬 2 - 빈도 정렬](https://www.acmicpc.net/problem/2910) |❌|✅❌|
+|1월 13일| [다이나믹 프로그래밍 - 1로 만들기](https://www.acmicpc.net/problem/1463) |✅❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

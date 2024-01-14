@@ -7,4 +7,4 @@
 
 import Foundation
 
-일로만들기()
+일이삼더하기()

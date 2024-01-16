@@ -7,4 +7,4 @@
 
 import Foundation
 
-계단오르기()
+쉬운계단수()

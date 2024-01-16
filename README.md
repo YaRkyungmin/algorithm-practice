@@ -189,6 +189,7 @@
 |1월 13일| [다이나믹 프로그래밍 - 1로 만들기](https://www.acmicpc.net/problem/1463) |❌|✅❌|
 |1월 14일| [다이나믹 프로그래밍 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |❌|✅❌|
 |1월 15일| [다이나믹 프로그래밍 - 계단 오르기](https://www.acmicpc.net/problem/2579) |✅|✅❌|
+|1월 16일| [다이나믹 프로그래밍 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |✅❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

@@ -198,4 +198,4 @@
 |1월 10일| [정렬 2 - 시리얼 번호](https://www.acmicpc.net/problem/1431) |❌|✅❌|
 |1월 12일| [정렬 2 - 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) |✅||
 |1월 17일| [다익스트라 알고리즘 - 최소비용 구하기](https://www.acmicpc.net/problem/1916) |❌|✅❌|
-|1월 18일| [다익스트라 알고리즘 - 알고스팟](https://www.acmicpc.net/problem/1261) |✅❌|✅❌|
+|1월 18일| [다익스트라 알고리즘 - 알고스팟](https://www.acmicpc.net/problem/1261) |❌|✅❌|

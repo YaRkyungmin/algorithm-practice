@@ -23,8 +23,14 @@ dist = [INT_MAX for _ in range(N + 1)]
 heap = []
 dist[A] = 0
 heapq.heappush(heap, (0, A))
+visit = [False for _ in range(N + 1)]
+visit[A] = True
 while heap:
     c, v = heapq.heappop(heap)
+    #### 이 영역이 무조건 필요!
+    if c > dist[v]:
+        continue
+    ####
     for pv, pc in town[v]:
         if dist[pv] > pc + c:
             dist[pv] = pc + c

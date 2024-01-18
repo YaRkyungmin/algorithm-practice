@@ -202,4 +202,4 @@
 |1월 12일| [정렬 2 - 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) |✅||
 |1월 17일| [다익스트라 알고리즘 - 최소비용 구하기](https://www.acmicpc.net/problem/1916) |❌|✅❌|
 |1월 18일| [다익스트라 알고리즘 - 알고스팟](https://www.acmicpc.net/problem/1261) |❌|✅|
-|1월 19일| [다이나믹 프로그래밍 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |✅❌|✅❌|
+|1월 19일| [다이나믹 프로그래밍 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |✅||

@@ -7,4 +7,4 @@
 
 import Foundation
 
-이친수()
+이n타일링()

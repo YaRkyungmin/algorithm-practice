@@ -7,4 +7,4 @@
 
 import Foundation
 
-이n타일링()
+이n타일링투()

@@ -10,13 +10,12 @@ import Foundation
 func 이n타일링투() {
     let n = Int(readLine()!)!
     
-    var dp = Array(repeating: 0, count: n)
-    dp[0] = 1
-    var signal = 1
-    
-    for i in 1..<n {
-        dp[i] = (dp[i-1]*2 + signal) % 10007
-        signal = signal == 1 ? -1 : 1
+    var dp = Array(repeating: 1, count: n + 1)
+
+    if n >= 2 {
+        for i in 2...n {
+            dp[i] = (dp[i-1] + (2 * dp[i-2])) % 10007
+        }
     }
-    print(dp[n-1])
+    print(dp[n])
 }

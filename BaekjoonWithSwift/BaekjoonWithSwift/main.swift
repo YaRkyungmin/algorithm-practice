@@ -7,4 +7,4 @@
 
 import Foundation
 
-쉬운계단수()
+이n타일링투()

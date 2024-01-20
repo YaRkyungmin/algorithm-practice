@@ -193,6 +193,7 @@
 |1월 18일| [다이나믹 프로그래밍 - 2×n 타일링 2](https://www.acmicpc.net/problem/11727) |✅|✅|
 |1월 18일| [다이나믹 프로그래밍 - 이친수](https://www.acmicpc.net/problem/2193) |✅||
 |1월 18일| [다이나믹 프로그래밍 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |✅||
+|1월 20일| [다이나믹 프로그래밍 - 연속합](https://www.acmicpc.net/problem/11055) |✅❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

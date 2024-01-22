@@ -7,4 +7,4 @@
 
 import Foundation
 
-파도반수열()
+퇴사()

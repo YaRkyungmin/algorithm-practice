@@ -7,4 +7,4 @@
 
 import Foundation
 
-가장긴증가하는부분수열()
+파도반수열()

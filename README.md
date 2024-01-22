@@ -195,7 +195,7 @@
 |1월 18일| [다이나믹 프로그래밍 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |✅||
 |1월 20일| [다이나믹 프로그래밍 - 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |❌|✅❌|
 |1월 21일| [다이나믹 프로그래밍 - 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |✅||
-|1월 22일| [다이나믹 프로그래밍 - 파도반 수열](https://www.acmicpc.net/problem/9461) |✅❌|✅❌|
+|1월 22일| [다이나믹 프로그래밍 - 파도반 수열](https://www.acmicpc.net/problem/9461) |✅||
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

@@ -197,6 +197,7 @@
 |1월 21일| [다이나믹 프로그래밍 - 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) |✅||
 |1월 22일| [다이나믹 프로그래밍 - 파도반 수열](https://www.acmicpc.net/problem/9461) |✅||
 |1월 22일| [다이나믹 프로그래밍 - 퇴사](https://www.acmicpc.net/problem/9461) |❌|✅❌|
+|1월 23일| [다이나믹 프로그래밍 - 퇴사 2](https://www.acmicpc.net/problem/15486) |✅❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

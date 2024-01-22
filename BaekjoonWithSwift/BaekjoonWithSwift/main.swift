@@ -7,4 +7,4 @@
 
 import Foundation
 
-퇴사()
+퇴사2()

@@ -209,4 +209,4 @@
 |1월 18일| [다익스트라 알고리즘 - 알고스팟](https://www.acmicpc.net/problem/1261) |❌|✅|
 |1월 19일| [다이나믹 프로그래밍 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |✅||
 |1월 19일| [다이나믹 프로그래밍 - 연속합](https://www.acmicpc.net/problem/1912) |✅||
-|1월 25일| [다이나믹 프로그래밍 - 삼각 그래프](https://www.acmicpc.net/problem/4883) |✅❌|✅❌|
+|1월 25일| [다이나믹 프로그래밍 - 삼각 그래프](https://www.acmicpc.net/problem/4883) |✅||

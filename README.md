@@ -211,3 +211,4 @@
 |1월 19일| [다이나믹 프로그래밍 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844) |✅||
 |1월 19일| [다이나믹 프로그래밍 - 연속합](https://www.acmicpc.net/problem/1912) |✅||
 |1월 25일| [다이나믹 프로그래밍 - 삼각 그래프](https://www.acmicpc.net/problem/4883) |✅||
+|1월 25일| [다이나믹 프로그래밍 - 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |✅❌|✅❌|

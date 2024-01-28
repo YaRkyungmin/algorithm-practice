@@ -7,4 +7,4 @@
 
 import Foundation
 
-LCS()
+피보나치수2()

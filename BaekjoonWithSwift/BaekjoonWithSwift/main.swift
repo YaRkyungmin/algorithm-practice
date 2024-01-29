@@ -7,4 +7,4 @@
 
 import Foundation
 
-피보나치수2()
+자두나무()

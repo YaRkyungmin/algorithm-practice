@@ -200,7 +200,7 @@
 |1월 23일| [다이나믹 프로그래밍 - 퇴사 2](https://www.acmicpc.net/problem/15486) |✅❌|✅❌|
 |1월 25일| [다이나믹 프로그래밍 - LCS](https://www.acmicpc.net/problem/9251) |❌|✅❌|
 |1월 28일| [다이나믹 프로그래밍 - 피보나치 수 2](https://www.acmicpc.net/problem/2748) |✅||
-|1월 29일| [다이나믹 프로그래밍 - 자두나무](https://www.acmicpc.net/problem/2240) |✅❌|✅❌|
+|1월 29일| [다이나믹 프로그래밍 - 자두나무](https://www.acmicpc.net/problem/2240) |❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

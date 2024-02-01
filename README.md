@@ -216,3 +216,4 @@
 |1월 25일| [다이나믹 프로그래밍 - 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |✅||
 |1월 30일| [다이나믹 프로그래밍 - RGB거리](https://www.acmicpc.net/problem/1149) |✅||
 |1월 31일| [다이나믹 프로그래밍 - 1로 만들기 2](https://www.acmicpc.net/problem/12852) |❌|✅❌|
+|2월 1일| [다이나믹 프로그래밍 - 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |✅❌|✅❌|

@@ -219,4 +219,4 @@
 |2월 1일| [다이나믹 프로그래밍 - 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) |✅||
 |2월 2일| [다이나믹 프로그래밍 - 포도주 시식](https://www.acmicpc.net/problem/2156) |✅|✅❌|
 |2월 3일| [다이나믹 프로그래밍 - 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) |✅||
-|2월 4일| [다이나믹 프로그래밍 - 극장 좌석](https://www.acmicpc.net/problem/2302) |✅❌|✅❌|
+|2월 4일| [다이나믹 프로그래밍 - 극장 좌석](https://www.acmicpc.net/problem/2302) |✅||

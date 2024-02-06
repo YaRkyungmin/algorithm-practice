@@ -222,4 +222,4 @@
 |2월 4일| [다이나믹 프로그래밍 - 극장 좌석](https://www.acmicpc.net/problem/2302) |✅||
 |2월 5일| [다이나믹 프로그래밍 - 카드 구매하기](https://www.acmicpc.net/problem/11052) |✅|✅❌|
 |2월 6일| [다이나믹 프로그래밍 - 스티커](https://www.acmicpc.net/problem/9465) |✅|✅❌|
-|2월 7일| [다이나믹 프로그래밍 - 오르막 수](https://www.acmicpc.net/problem/11057) |✅❌|✅❌|
+|2월 7일| [다이나믹 프로그래밍 - 오르막 수](https://www.acmicpc.net/problem/11057) |✅||

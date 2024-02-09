@@ -225,4 +225,4 @@
 |2월 7일| [다이나믹 프로그래밍 - 오르막 수](https://www.acmicpc.net/problem/11057) |✅||
 |2월 8일| [다이나믹 프로그래밍 - 동전 1](https://www.acmicpc.net/problem/2293) |❌|✅❌|
 |2월 9일| [다이나믹 프로그래밍 - 01타일](https://www.acmicpc.net/problem/1904) |✅||
-|2월 10일| [다이나믹 프로그래밍 - 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) |✅❌|✅❌|
+|2월 10일| [다이나믹 프로그래밍 - 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) |✅||

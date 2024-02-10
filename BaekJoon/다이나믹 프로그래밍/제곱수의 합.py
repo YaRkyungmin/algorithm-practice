@@ -11,11 +11,12 @@ MAX_INT = sys.maxsize
 N = int(input().rstrip())
 dp = [0, 1] + [MAX_INT for _ in range(1, N)]
 
-for i in range(1, N + 1):
-    if i**(1/2) - int(i**(1/2)) == 0:
-        dp[i] = 1
-        continue
-    for j in range(int(i/2), i):
-        dp[i] = min(dp[j] + dp[i - j], dp[i])
+for i in range(2, N + 1):
+    for j in range(1, i + 1):
+        s = j ** 2
+        if s > i :
+            break
+        if dp[i] > dp[i - s] + 1:
+            dp[i] = dp[i - s] + 1
 
 print(dp[N])

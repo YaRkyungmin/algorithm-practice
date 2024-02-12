@@ -228,4 +228,4 @@
 |2월 10일| [다이나믹 프로그래밍 - 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) |✅||
 |2월 11일| [다이나믹 프로그래밍 - 제곱수의 합](https://www.acmicpc.net/problem/1699) |❌|✅❌|
 |2월 12일| [다이나믹 프로그래밍 - 동전](https://www.acmicpc.net/problem/9084) |✅||
-|2월 13일| [다이나믹 프로그래밍 - 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |✅|✅❌|
+|2월 13일| [다이나믹 프로그래밍 - 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |✅|✅|

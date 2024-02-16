@@ -231,4 +231,4 @@
 |2월 13일| [다이나믹 프로그래밍 - 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |✅|✅|
 |2월 14일| [다이나믹 프로그래밍 - 팰린드롬?](https://www.acmicpc.net/problem/10942) |❌|✅❌|
 |2월 15일| [다이나믹 프로그래밍 - 돌 게임](https://www.acmicpc.net/problem/9655) |❌|✅❌|
-|2월 16일| [다이나믹 프로그래밍 - 암호코드](https://www.acmicpc.net/problem/2011) |✅❌|✅❌|
+|2월 16일| [다이나믹 프로그래밍 - 암호코드](https://www.acmicpc.net/problem/2011) |❌|✅❌|

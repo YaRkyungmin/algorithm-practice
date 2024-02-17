@@ -232,3 +232,4 @@
 |2월 14일| [다이나믹 프로그래밍 - 팰린드롬?](https://www.acmicpc.net/problem/10942) |❌|✅❌|
 |2월 15일| [다이나믹 프로그래밍 - 돌 게임](https://www.acmicpc.net/problem/9655) |❌|✅❌|
 |2월 16일| [다이나믹 프로그래밍 - 암호코드](https://www.acmicpc.net/problem/2011) |❌|✅❌|
+|2월 17일| [다이나믹 프로그래밍 - 동전 2](https://www.acmicpc.net/problem/2294) |✅❌|✅❌|

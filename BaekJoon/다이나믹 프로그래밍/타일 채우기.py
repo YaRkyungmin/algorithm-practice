@@ -12,9 +12,9 @@ dp = [0 for _ in range(N + 1)]
 dp[0] = 1
 if N >= 2:
     dp[2] = 3
-    for i in range(4, N + 1, 2):
-        if i >= 6:
-            dp[i] = dp[i - 2] * 3 + dp[i - 4] * 2 + dp[i - 6] * 2
-        else:
-            dp[i] = dp[i - 2] * 3 + dp[i - 4] * 2
+    for i in range(4, N + 1, 2): # 4이상부터는 특별한모양 2가지가 추가된다
+        dp[i] += dp[i - 2] * 3
+        for x in range(4, i + 1, 2):
+            dp[i] += dp[i - x] * 2
+
 print(dp[N])

@@ -234,4 +234,4 @@
 |2월 16일| [다이나믹 프로그래밍 - 암호코드](https://www.acmicpc.net/problem/2011) |❌|✅❌|
 |2월 17일| [다이나믹 프로그래밍 - 동전 2](https://www.acmicpc.net/problem/2294) |✅|✅❌|
 |2월 18일| [다이나믹 프로그래밍 - 타일 채우기](https://www.acmicpc.net/problem/2133) |❌|✅❌|
-|2월 19일| [다이나믹 프로그래밍 - 내리막 길](https://www.acmicpc.net/problem/1520) |✅❌|✅❌|
+|2월 19일| [다이나믹 프로그래밍 - 내리막 길](https://www.acmicpc.net/problem/1520) |❌|✅❌|

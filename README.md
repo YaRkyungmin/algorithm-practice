@@ -236,4 +236,4 @@
 |2월 18일| [다이나믹 프로그래밍 - 타일 채우기](https://www.acmicpc.net/problem/2133) |❌|✅❌|
 |2월 19일| [다이나믹 프로그래밍 - 내리막 길](https://www.acmicpc.net/problem/1520) |❌|✅❌|
 |2월 20일| [다이나믹 프로그래밍 - 돌 게임 3](https://www.acmicpc.net/problem/9657) |✅|✅❌|
-|2월 21일| [다이나믹 프로그래밍 - 색상환](https://www.acmicpc.net/problem/2482) |✅❌|✅❌|
+|2월 21일| [다이나믹 프로그래밍 - 색상환](https://www.acmicpc.net/problem/2482) |❌|✅❌|

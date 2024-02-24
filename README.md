@@ -239,3 +239,4 @@
 |2월 21일| [다이나믹 프로그래밍 - 색상환](https://www.acmicpc.net/problem/2482) |❌|✅❌|
 |2월 22일| [투 포인터 - 수 고르기](https://www.acmicpc.net/problem/2230) |❌|✅❌|
 |2월 23일| [투 포인터 - 부분합](https://www.acmicpc.net/problem/1806) |✅|✅❌|
+|2월 24일| [투 포인터 - 소수의 연속합](https://www.acmicpc.net/problem/1644) |✅❌|✅❌|

@@ -241,4 +241,4 @@
 |2월 23일| [투 포인터 - 부분합](https://www.acmicpc.net/problem/1806) |✅|✅❌|
 |2월 24일| [투 포인터 - 소수의 연속합](https://www.acmicpc.net/problem/1644) |❌|✅❌|
 |2월 25일| [투 포인터 - 수들의 합 2](https://www.acmicpc.net/problem/2003) |✅||
-|2월 26일| [투 포인터 - List of Unique Numbers](https://www.acmicpc.net/problem/13144) |✅❌|✅❌|
+|2월 26일| [투 포인터 - List of Unique Numbers](https://www.acmicpc.net/problem/13144) |❌|✅❌|

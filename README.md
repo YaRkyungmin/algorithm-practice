@@ -244,4 +244,4 @@
 |2월 26일| [투 포인터 - List of Unique Numbers](https://www.acmicpc.net/problem/13144) |❌|✅❌|
 |2월 27일| [투 포인터 - 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |✅|✅❌|
 |2월 28일| [투 포인터 - 회전 초밥](https://www.acmicpc.net/problem/2531) |❌|✅❌|
-|2월 29일| [투 포인터 - 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |✅❌|✅❌|
+|2월 29일| [투 포인터 - 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |✅||

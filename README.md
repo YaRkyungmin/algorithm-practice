@@ -247,4 +247,4 @@
 |2월 29일| [투 포인터 - 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |✅||
 |3월 1일| [투 포인터 - 대표 선수](https://www.acmicpc.net/problem/2461) |✅|✅❌|
 |3월 2일| [투 포인터 - 구간 자르기](https://www.acmicpc.net/problem/2283) |❌|✅❌|
-|4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |✅❌|✅❌|
+|4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |❌|✅❌|

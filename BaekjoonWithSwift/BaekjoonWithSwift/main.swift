@@ -7,4 +7,4 @@
 
 import Foundation
 
-같이눈사람만들래()
+바이러스()

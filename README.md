@@ -201,7 +201,7 @@
 |1월 25일| [다이나믹 프로그래밍 - LCS](https://www.acmicpc.net/problem/9251) |❌|✅❌|
 |1월 28일| [다이나믹 프로그래밍 - 피보나치 수 2](https://www.acmicpc.net/problem/2748) |✅||
 |1월 29일| [다이나믹 프로그래밍 - 자두나무](https://www.acmicpc.net/problem/2240) |❌|✅❌|
-|4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |✅❌|✅❌|
+|4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |✅|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

@@ -8,4 +8,30 @@
 import Foundation
 
 func 같이눈사람만들래() {
+    let N = Int(readLine()!)!
+    var numbers = readLine()!.split(separator: " ").compactMap { Int($0) }
+    numbers.sort()
+    var result = 1000000001
+    for i in stride(from: 0, to: N - 3, by: 1) {
+        for j in stride(from: i + 3, to: N, by: 1) {
+            let A = numbers[i] + numbers[j]
+            var st = i + 1
+            var en = j - 1
+            while st < en {
+                let B = numbers[st] + numbers[en]
+                let diff = A - B
+                if A > B {
+                    result = min(result, abs(diff))
+                    st += 1
+                } else if A < B {
+                    result = min(result, abs(diff))
+                    en -= 1
+                } else {
+                    result = 0
+                    break
+                }
+            }
+        }
+    }
+    print(result)
 }

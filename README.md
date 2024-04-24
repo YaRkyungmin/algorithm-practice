@@ -250,3 +250,10 @@
 |3월 1일| [투 포인터 - 대표 선수](https://www.acmicpc.net/problem/2461) |✅|✅❌|
 |3월 2일| [투 포인터 - 구간 자르기](https://www.acmicpc.net/problem/2283) |❌|✅❌|
 |4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |❌|✅❌|
+
+# Algorithm2024 🧑🏻‍💻
+
+### Programmers with Swift ✨
+| date       | problem set          | solve | review |
+| :----------: | :--------------------: | :----: | :----: | 
+|4월 24일| [DFS - 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |✅❌|✅❌|

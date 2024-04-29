@@ -7,4 +7,4 @@
 
 import Foundation
 
-바이러스()
+DFS와BFS()

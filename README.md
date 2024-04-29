@@ -203,6 +203,7 @@
 |1월 29일| [다이나믹 프로그래밍 - 자두나무](https://www.acmicpc.net/problem/2240) |❌|✅❌|
 |4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |✅|✅|
 |4월 22일| [DFS - 바이러스](https://www.acmicpc.net/problem/2606) |✅||
+|4월 29일| [DFS - DFS와 BFS](https://www.acmicpc.net/problem/1260) |✅❌|✅❌|
 
 ### BaekJoon with Python ✨
 | date       | problem set          | solve | review |

@@ -253,7 +253,7 @@
 |4월 22일| [투 포인터 - 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |❌|✅❌|
 |4월 29일| [시뮬레이션 - 스타트와 링크](https://www.acmicpc.net/problem/14889) |✅||
 |5월 2일| [다이나믹 프로그래밍 - 정수 삼각형](https://www.acmicpc.net/problem/1932) |✅||
-|5월 9일| [시뮬레이션 - 스티커 붙이기](https://www.acmicpc.net/problem/18808) |✅❌|✅❌|
+|5월 9일| [시뮬레이션 - 스티커 붙이기](https://www.acmicpc.net/problem/18808) |❌|✅❌|
 
 # Algorithm2024 🧑🏻‍💻
 

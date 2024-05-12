@@ -254,7 +254,7 @@
 |4월 29일| [시뮬레이션 - 스타트와 링크](https://www.acmicpc.net/problem/14889) |✅||
 |5월 2일| [다이나믹 프로그래밍 - 정수 삼각형](https://www.acmicpc.net/problem/1932) |✅||
 |5월 9일| [시뮬레이션 - 스티커 붙이기](https://www.acmicpc.net/problem/18808) |❌|✅❌|
-|5월 9일| [시뮬레이션 - 트럭](https://www.acmicpc.net/problem/13335) |✅❌|✅❌|
+|5월 9일| [시뮬레이션 - 트럭](https://www.acmicpc.net/problem/13335) |❌|✅❌|
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

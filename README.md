@@ -259,7 +259,7 @@
 |7월 1일| [플로이드 - 플로이드](https://www.acmicpc.net/problem/11404) |❌|✅❌|
 |7월 5일| [힙 - 가운데를 말해요](https://www.acmicpc.net/problem/1655) |❌|✅❌|
 |7월 8일| [스택 - 괄호의 값](https://www.acmicpc.net/problem/2504) |✅||
-|7월 9일| [그리디 - 보물](https://www.acmicpc.net/problem/1026) |✅❌|✅❌|
+|7월 9일| [그리디 - 보물](https://www.acmicpc.net/problem/1026) |✅||
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

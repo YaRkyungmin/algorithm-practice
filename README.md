@@ -263,7 +263,7 @@
 |7월 9일| [그리디 - 게임을 만든 동준이](https://www.acmicpc.net/problem/2847) |✅||
 |7월 16일| [그리디 - 공주님의 정원](https://www.acmicpc.net/problem/2457) |✅|✅❌|
 |7월 16일| [그리디 - 주식](https://www.acmicpc.net/problem/11501) |❌|✅❌|
-|7월 17일| [그리디 - 뒤집기](https://www.acmicpc.net/problem/1439) |✅❌|✅❌|
+|7월 17일| [그리디 - 뒤집기](https://www.acmicpc.net/problem/1439) |✅||
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

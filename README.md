@@ -261,7 +261,7 @@
 |7월 8일| [스택 - 괄호의 값](https://www.acmicpc.net/problem/2504) |✅||
 |7월 9일| [그리디 - 보물](https://www.acmicpc.net/problem/1026) |✅||
 |7월 9일| [그리디 - 게임을 만든 동준이](https://www.acmicpc.net/problem/2847) |✅||
-|7월 9일| [그리디 - 공주님의 정원](https://www.acmicpc.net/problem/2457) |✅❌|✅❌|
+|7월 16일| [그리디 - 공주님의 정원](https://www.acmicpc.net/problem/2457) |✅|✅❌|
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

@@ -267,6 +267,8 @@
 |7월 18일| [그리디 - 강의실 배정](https://www.acmicpc.net/problem/11000) |❌|✅❌|
 |7월 18일| [그리디 - 카드 합체 놀이](https://www.acmicpc.net/problem/15903) |✅||
 |7월 19일| [그리디 - 선 긋기](https://www.acmicpc.net/problem/2170) |✅||
+|7월 19일| [그리디 - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |✅❌|✅❌|
+
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

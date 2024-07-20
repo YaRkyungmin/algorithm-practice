@@ -278,4 +278,4 @@
 ### Programmers with python ✨
 | date       | problem set          | solve | review |
 | :----------: | :--------------------: | :----: | :----: | 
-|7월 20일| [그리디 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |✅❌|✅❌|
+|7월 20일| [그리디 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |❌|✅❌|

@@ -274,3 +274,8 @@
 | date       | problem set          | solve | review |
 | :----------: | :--------------------: | :----: | :----: | 
 |4월 24일| [DFS - 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |✅||
+
+### Programmers with python ✨
+| date       | problem set          | solve | review |
+| :----------: | :--------------------: | :----: | :----: | 
+|7월 20일| [그리디 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |✅❌|✅❌|

@@ -280,3 +280,4 @@
 | date       | problem set          | solve | review |
 | :----------: | :--------------------: | :----: | :----: | 
 |7월 20일| [그리디 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |❌|✅❌|
+|8월 4일| [깊이 우선탐색 - 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |✅❌|✅❌|

@@ -270,7 +270,7 @@
 |7월 19일| [그리디 - 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) |❌|✅❌|
 |7월 21일| [그리디 - 택배](https://www.acmicpc.net/problem/8980) |✅❌|✅❌|
 |7월 21일| [다이나믹 프로그래밍 - 계단 오르기](https://www.acmicpc.net/problem/2579) |✅||
-|9월 23일| [다이나믹 프로그래밍 - 줄세우기](https://www.acmicpc.net/problem/2631) |✅❌|✅❌|
+|9월 23일| [다이나믹 프로그래밍 - 줄세우기](https://www.acmicpc.net/problem/2631) |✅||
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

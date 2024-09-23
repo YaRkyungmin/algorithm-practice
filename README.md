@@ -272,6 +272,7 @@
 |7월 21일| [다이나믹 프로그래밍 - 계단 오르기](https://www.acmicpc.net/problem/2579) |✅||
 |9월 23일| [다이나믹 프로그래밍 - 줄세우기](https://www.acmicpc.net/problem/2631) |✅||
 |9월 23일| [시뮬레이션 - 주사위 굴리기](https://www.acmicpc.net/problem/14499) |✅||
+|9월 24일| [다이나믹 프로그래밍 - 여행](https://www.acmicpc.net/problem/2157) |✅❌|✅❌|
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

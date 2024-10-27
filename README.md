@@ -273,7 +273,7 @@
 |9월 23일| [다이나믹 프로그래밍 - 줄세우기](https://www.acmicpc.net/problem/2631) |✅||
 |9월 23일| [시뮬레이션 - 주사위 굴리기](https://www.acmicpc.net/problem/14499) |✅||
 |9월 24일| [다이나믹 프로그래밍 - 여행](https://www.acmicpc.net/problem/2157) |✅||
-|9월 25일| [시뮬레이션 - 주사위 윷놀이](https://www.acmicpc.net/problem/17825) |✅❌|✅❌|
+|9월 25일| [시뮬레이션 - 주사위 윷놀이](https://www.acmicpc.net/problem/17825) |❌|✅❌|
 |9월 26일| [BFS - 숨바꼭질 4](https://www.acmicpc.net/problem/13913) |❌|✅❌|
 |10월 14일| [시뮬레이션 - 뱀](https://www.acmicpc.net/problem/3190) |✅|✅❌|
 |10월 15일| [다이나믹 프로그래밍 - 점프](https://www.acmicpc.net/problem/2253) |❌|✅❌|

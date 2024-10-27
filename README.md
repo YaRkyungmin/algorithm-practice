@@ -278,6 +278,7 @@
 |10월 14일| [시뮬레이션 - 뱀](https://www.acmicpc.net/problem/3190) |✅|✅❌|
 |10월 15일| [다이나믹 프로그래밍 - 점프](https://www.acmicpc.net/problem/2253) |❌|✅❌|
 |10월 25일| [그리디 - AB](https://www.acmicpc.net/problem/12970) |❌|✅❌|
+|10월 27일| [BFS - 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |✅❌|✅❌|
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |

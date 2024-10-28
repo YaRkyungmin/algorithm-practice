@@ -280,6 +280,7 @@
 |10월 25일| [그리디 - AB](https://www.acmicpc.net/problem/12970) |❌|✅❌|
 |10월 27일| [BFS - 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |✅|✅❌|
 |10월 28일| [시뮬레이션 - 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |✅|✅❌|
+|10월 28일| [다이나믹 프로그래밍 - 합분해](https://www.acmicpc.net/problem/2225) |✅❌|✅❌|
 
 ### Programmers with Swift ✨
 | date       | problem set          | solve | review |
